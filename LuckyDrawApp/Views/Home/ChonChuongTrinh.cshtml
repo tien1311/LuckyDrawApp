@@ -1,0 +1,213 @@
+﻿@model LuckyDrawApp.Service.Model.Response.LuckyDrawResponse
+
+@{
+    ViewData["Title"] = "Chọn chương trình";
+    Layout = "~/Views/Shared/MasterLayout_LuckyRaw.cshtml";
+}
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>@ViewData["Title"]</title>
+<style>
+    .container-login100 {
+        width: 100%;
+        min-height: 100vh;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding: 15px;
+        background-image: url('/images/2.png');
+    }
+
+    .img-responsive {
+        border-radius: 7px;
+        margin-bottom: 30px;
+    }
+
+    .logo {
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: 50px;
+    }
+
+    .container-content {
+        background: #fff;
+        border-radius: 5px;
+        padding: 0px;
+        text-align: justify;
+    }
+
+    .content-iframe {
+        margin: auto;
+        width: 100%;
+    }
+
+
+    .btn-BSP {
+        color: #fff;
+        background-color: #6c0678;
+        border-color: #6c0678;
+    }
+
+    .btn-organ {
+        background-color: #f5821f;
+        border-color: #f5821f;
+        color: #fff;
+    }
+
+    .badge {
+        background-color: #fff;
+        padding: 0px;
+    }
+
+    .bd-toc {
+        font-weight: 400;
+        line-height: 1.5;
+        font-size: 14px;
+    }
+
+        .bd-toc ul {
+            padding-left: 0;
+            list-style: none;
+        }
+
+        .bd-toc li {
+            margin-bottom: .25rem;
+        }
+
+        .bd-toc ul ul {
+            padding-left: 2rem;
+            margin-top: .25rem;
+        }
+
+    @@media (max-width: 768px) {
+        .logo {
+            text-align: center;
+            margin-top: 0px;
+            margin-bottom: 30px;
+        }
+
+        .container-login100 {
+            background-image: url('/images/5.jpg');
+            background-position: inherit;
+        }
+
+        .content-iframe {
+            width: 100%;
+        }
+    }
+</style>
+<div class="limiter">
+    <div class="container-login100" style="">
+        <div class="row">
+            <div class="col-sm-8">
+                <div class="content-iframe">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <div class="x_panel">
+                                <div class="x_content">
+                                    <div class="row">
+                                        <h1 class="text-center"><strong>@Model.Name</strong></h1>
+                                        <input id="LuckyDrawID" type="hidden" value="@Model.Id"/>
+                                        <p style="font-size: 16px; font-weight: bold;">Danh sách giải thưởng</p>
+                                        <div class="col-sm-4">
+                                            <ul class="list-group">
+                                                @for (int i = 0; i < Model.LuckyDrawPrizes.Count; i++)
+                                                {
+                                                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                                                        <span>@Model.LuckyDrawPrizes[i].Name </span>: <span>@Model.LuckyDrawPrizes[i].Quantity.ToString("D2")</span> <span>@Model.LuckyDrawPrizes[i].Value</span> <span class="badge"><input type="radio" onclick="ActiveLuckyDrawPrize('@Model.LuckyDrawPrizes[i].Id', '@Model.Id')" name="prizes" value="@Model.LuckyDrawPrizes[i].Id" /></span>
+                                                    </li>
+                                                }
+                                            </ul>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                        <div class="text-center">
+                                            <button type="submit" onclick="Refresh();" class="btn btn-primary btn-lg">REFRESH</button>
+                                           
+                                            <button type="button" onclick="PageQuaySo();" class="btn btn-success btn-lg">QUAY THƯỞNG</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="content-iframe">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <div class="x_panel">
+                                <div class="x_content">
+                                    <div class="bd-toc">
+                                        <p style="font-size: 18px; font-weight: bold;">Danh sách trúng giải</p>
+                                        <ul>
+                                            @if (Model.LuckyDrawResults != null)
+                                            {
+                                                for (int i = 0; i < Model.LuckyDrawPrizes.Count; i++)
+                                                {
+                                                    <li>
+                                                        <strong><span>@Model.LuckyDrawPrizes[i].Name </span>: <span>@Model.LuckyDrawPrizes[i].Quantity.ToString("D2")</span> <span>@Model.LuckyDrawPrizes[i].Value</span></strong>
+                                                        <ul>
+                                                            @for (int y = 0; y < Model.LuckyDrawResults.Count; y++)
+                                                            {
+                                                                if (Model.LuckyDrawPrizes[i].Id == Model.LuckyDrawResults[y].luckyDrawPrizeId)
+                                                                {
+                                                                    <li>
+                                                                        <span> @Model.LuckyDrawResults[y].DrawData </span> <span>@Model.LuckyDrawResults[y].AgentId</span> <span></span>
+                                                                    </li>
+                                                                }
+                                                            }
+                                                        </ul>
+                                                    </li>
+                                                }
+                                            }
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function ActiveLuckyDrawPrize(id, LuckyDrawId) {
+        $.ajax({
+            type: "POST",
+            url: "/Home/ActiveLuckyDrawPrize",
+            data: {
+                ID: id,
+                LuckyDrawID: LuckyDrawId
+            },
+            success: function (response) {
+                console.log(response);
+            },
+            failure: function (response) {
+                alert(response);
+            },
+            error: function (response) {
+                alert(response);
+            }
+        });
+    };
+    function Refresh() {
+        location.reload();
+    };
+    function PageQuaySo() {
+        var radio = document.querySelector('input[name="prizes"]:checked');
+        var LuckyDrawID = document.getElementById("LuckyDrawID").value;
+        var Id = radio.value;
+      
+        var link = document.createElement("a");
+        link.href = "/Home/QuaySo/?LuckyDrawID= " + LuckyDrawID;
+        link.target = "_blank";
+        link.click();
+    }
+</script>

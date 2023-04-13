@@ -1,0 +1,529 @@
+﻿@model List<LuckyDrawApp.Service.Model.Response.LuckyDrawResponse>
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/MasterLayout.cshtml";
+}
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>@ViewData["Title"]</title>
+<style>
+    .container-login100 {
+        width: 100%;
+        min-height: 100vh;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding: 15px;
+        background-image: url('/images/2.png');
+    }
+
+    .img-responsive {
+        border-radius: 7px;
+        margin-bottom: 30px;
+    }
+
+    .logo {
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: 50px;
+    }
+
+    .container-content {
+        background: #fff;
+        border-radius: 5px;
+        padding: 0px;
+        text-align: justify;
+    }
+
+    .content-iframe {
+        margin: auto;
+        width: 100%;
+    }
+
+
+    .btn-BSP {
+        color: #fff;
+        background-color: #6c0678;
+        border-color: #6c0678;
+    }
+
+    .btn-organ {
+        background-color: #f5821f;
+        border-color: #f5821f;
+        color: #fff;
+    }
+
+    .main-img {
+        border: 1px solid #ddd;
+        height: 90px;
+        border-radius: 8px;
+    }
+
+        .main-img img {
+            width: 100%;
+            max-height: 90px;
+            border-radius: 8px;
+        }
+
+    #gridLuckyRaw tr td {
+        vertical-align: middle;
+    }
+
+    @@media (max-width: 768px) {
+        .logo {
+            text-align: center;
+            margin-top: 0px;
+            margin-bottom: 30px;
+        }
+
+        .container-login100 {
+            background-image: url('/images/5.jpg');
+            background-position: inherit;
+        }
+
+        .content-iframe {
+            width: 100%;
+        }
+    }
+</style>
+<div class="limiter">
+    <div class="container-login100" style="">
+        <div class="content-iframe">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div class="x_panel">
+                        <div class="x_content">
+                            <div class="row">
+                                <div class="col-xs-12 container-content">
+                                    <form asp-controller="Home" asp-action="Index" method="post" enctype="multipart/form-data">
+                                        <div class="row">
+                                            <div class="col-sm-3">
+                                                <div class="form-group">
+                                                    <label>Tiêu đề</label>
+                                                    <input class="form-control" id="title" name="title" placeholder="Tiêu đề" value="">
+                                                    <input class="form-control" id="ID" name="ID" hidden value="">
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-1">
+                                                <div class="form-group">
+                                                    <label>Tháng</label>
+                                                    <input class="form-control" id="Month" name="Month" placeholder="Tháng" value="">
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-1">
+                                                <div class="form-group">
+                                                    <label>Năm</label>
+                                                    <input class="form-control" id="Year" name="Year" placeholder="Năm" value="">
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-2">
+                                                <div class="item form-group">
+                                                    <label class="col-form-label">
+                                                        File đính kèm
+                                                    </label>
+                                                    <div class="">
+                                                        <div class="inputfile-box">
+                                                            <input type="file" id="file" class="inputfile" name="file" onchange="previewImage(event)" accept="image/*">
+                                                            <label for="file">
+                                                                <span class="file-button btn btn-primary" style="margin-bottom: 6px;">
+                                                                    Chọn file
+                                                                </span>
+                                                            </label>
+                                                            <input id="file-name" class="file-box" placeholder="Chọn tập tin">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-2">
+                                                <div class="main-img" id="imagePreview">
+
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-1">
+                                                <div class="form-group">
+                                                    <label>SL chữ số</label>
+                                                    <input type="number" class="form-control" id="CountNumber" name="CountNumber" placeholder="" value="0">
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-1">
+                                                <div class="form-group">
+                                                    <label>&nbsp;</label>
+                                                    <div>
+                                                        <input type="submit" class="btn btn-success btn-block" id="buttonName" name="buttonName" value="Save" />
+                                                        @*<button type="submit" id="SaveData" class="btn btn-success btn-block" name="Save" value="Save">Save</button>*@
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-1">
+                                                <div class="form-group">
+                                                    <label>&nbsp;</label>
+                                                    <div>
+                                                        <input type="submit" class="btn btn-primary btn-block" id="buttonNameReload" name="buttonName" value="Tạo Mới" />
+                                                        @*<button type="submit" id="SaveData" class="btn btn-success btn-block" name="Save" value="Save">Save</button>*@
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-sm-12">
+                                                <div class="form-group">
+                                                    <label>Mô tả</label>
+                                                    <textarea class="form-control" id="description" name="description" rows="3"> </textarea>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        
+                                    </form>
+                                    <div class="table-responsive">
+                                        <table id="gridLuckyDraw" class="table table-striped jambo_table bulk_action">
+                                            <thead>
+                                                <tr class="headings">
+                                                    <th class="column-title"> </th>
+                                                    <th class="column-title">STT </th>
+                                                    <th class="column-title">Tiêu đề </th>
+                                                    <th class="column-title">Tháng </th>
+                                                    <th class="column-title">Năm </th>
+                                                    <th class="column-title">SL chữ số </th>
+                                                    <th class="column-title">Mô tả </th>
+                                                    <th class="column-title">Import </th>
+                                                    <th class="column-title">Import giải thưởng</th>
+                                                    <th class="column-title"> </th>
+                                                    <th class="column-title"> </th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                @if (Model != null)
+                                                {
+                                      
+                                                    int i = 1;
+                                                    @foreach (var item in Model)
+                                                    {
+                                                        <tr id="@item.Id">
+                                                            <td><a class="Edit" style="color:blue;" href="javascript:;"><i class="fa fa-pencil-square-o" aria-hidden="true"></i></a></td>
+                                                            <td class="">@i</td>
+                                                            <td><a class="Edit" data-toggle="modal" data-target="#openPopup" href="javascript:;">@item.Name</a></td>
+                                                            <td>@item.DrawMonth</td>
+                                                            <td>@item.DrawYear</td>
+                                                            <td class="">@item.CountNumber</td>
+                                                            <td><a class="MoTa" data-toggle="modal" data-target="#openPopup" href="javascript:;">Chi tiết</a></td>
+                                                            <td><a class="ImportData" data-toggle="modal" data-target="#openPopup" href="javascript:;"><i style="font-size:14px;color:red" class="fa fa-arrow-circle-down" aria-hidden="true"></i></a></td>
+                                                            <td><a class="ImportGiaiThuong" data-toggle="modal" data-target="#openPopup" href="javascript:;"><i style="font-size:14px;color:blue" class="fa fa-plus-circle" aria-hidden="true"></i></a></td>
+                                                            <td style="text-align: center;">
+                                                                
+                                                                <a  href='@Url.Action("ChonChuongTrinh", "Home", new { id = item.Id })' target="_blank" ><input type="submit" class="btn btn-primary btn-xs" id="" name="Chon" value="Chọn" /></a>
+                                                            </td>
+                                                            <td style="text-align: center;">
+                                                                <a class="Status" style="color:red;" href="javascript:;" onclick="DeleteLuckyDraw(@item.Id)"><i class="fa fa-trash" style="font-size:14px;" aria-hidden="true"></i></a>
+                                                            </td>
+                                                        </tr>
+                                                        i++;
+                                                    }
+                                                }
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="openPopup" role="dialog">
+    </div>
+    <script src="~/js/jquery.1.7.2.min.js"></script>
+    <script src="~/js/jquery-ui.1.8.9.js"></script>
+    <link href="~/js/jquery-ui.1.8.9.css" rel="stylesheet" />
+    @if (ViewBag.ThongBaoPop != null)
+    {
+        <script charset="UTF-8">
+        alert('@Html.Raw(ViewBag.ThongBaoPop)');
+        </script>
+    }
+    <script>
+        $(document).ready(function () {
+            CKEDITOR.replace('description', {
+                height: 200,
+                filebrowserUploadUrl: '/Home/UploadCKEditor'
+            });
+        });
+        //Preview Image
+        function previewImage(event) {
+            // Get the file from the input field
+            var file = event.target.files[0];
+
+            // Create a FileReader object
+            var reader = new FileReader();
+
+            // Set the onload event handler
+            reader.onload = function () {
+
+                // Remove the previous img element, if any
+                var imagePreview = document.getElementById('imagePreview');
+                while (imagePreview.firstChild) {
+                    imagePreview.removeChild(imagePreview.firstChild);
+                }
+                // Create an img element
+                var img = document.createElement('img');
+
+                // Set the src attribute to the contents of the file
+                img.src = reader.result;
+
+                for (var i = 0; i < event.target.files.length; i++) {
+                    document.getElementById("file-name").value = event.target.files[i].name;
+                }
+
+                // Append the img element to the div element
+                imagePreview.appendChild(img);
+            }
+
+            // Read the file as a data URL
+            reader.readAsDataURL(file);
+        }
+        $("#gridLuckyDraw .Edit").click(function () {
+            var id = String($(this).closest('tr').attr('id'));
+            $.ajax({
+                type: "POST",
+                url: "/Home/EditLuckyRaw",
+                data: { ID: id },
+                success: function (response) {
+                    $('#openPopup').html(response);
+                    $('#openPopup').modal('show');
+                },
+                failure: function (response) {
+                    alert(response.responseText);
+                },
+                error: function (response) {
+                    alert(response.responseText);
+                }
+            });
+        });
+        $("#gridLuckyDraw .MoTa").click(function () {
+            var id = String($(this).closest('tr').attr('id'));
+            $.ajax({
+                type: "POST",
+                url: "/Home/DescriptionLuckyRaw",
+                data: { ID: id },
+                success: function (response) {
+                    $('#openPopup').html(response);
+                    $('#openPopup').modal('show');
+                },
+                failure: function (response) {
+                    alert(response.responseText);
+                },
+                error: function (response) {
+                    alert(response.responseText);
+                }
+            });
+        });
+
+        $("#gridLuckyDraw .ImportGiaiThuong").click(function () {
+            var id = String($(this).closest('tr').attr('id'));
+            $.ajax({
+                type: "POST",
+                url: "/Home/ImportGiaiThuong",
+                data: { ID: id },
+                success: function (response) {
+                    $('#openPopup').html(response);
+                    $('#openPopup').modal('show');
+                },
+                failure: function (response) {
+                    alert(response.responseText);
+                },
+                error: function (response) {
+                    alert(response.responseText);
+                }
+            });
+        });
+
+        $("#gridLuckyDraw .ImportData").click(function () {
+            var id = String($(this).closest('tr').attr('id'));
+            $.ajax({
+                type: "POST",
+                url: "/Home/ImportDataLuckyDraw",
+                data: { ID: id },
+                success: function (response) {
+                    $('#openPopup').html(response);
+                    $('#openPopup').modal('show');
+                },
+                failure: function (response) {
+                    alert(response.responseText);
+                },
+                error: function (response) {
+                    alert(response.responseText);
+                }
+            });
+        });
+        $("#gridLuckyDraw .Edit").click(function () {
+         
+            var id = String($(this).closest('tr').attr('id'));
+            $.ajax({
+                type: "GET",
+                url: "/Home/GetLuckyDraw",
+                data: { ID: id },
+                dataType: "json",
+                beforeSend: function () {
+                    //show loading
+                },
+                complete: function () {
+                    //hide loading
+                },
+                success: function (resultData) {
+    
+                    document.getElementById("buttonName").value = "Update";
+                    document.getElementById("ID").value = id;
+                    document.getElementById("title").value = resultData.name;
+                    document.getElementById("Month").value = resultData.drawMonth;
+                    document.getElementById("Year").value = resultData.drawYear;
+                    document.getElementById("CountNumber").value = resultData.countNumber;
+                    CKEDITOR.instances.description.setData(resultData.description);
+                    const img = new Image();
+                    img.src = resultData.backgroundImgUrl;
+                    var imagePreview = document.getElementById('imagePreview');
+                    while (imagePreview.firstChild) {
+                        imagePreview.removeChild(imagePreview.firstChild);
+                    }
+                    // Append the img element to the div element
+                    imagePreview.appendChild(img);
+                    document.getElementById("file-name").value = resultData.backgroundImgUrl;
+                },
+                error: function (xhr, status, p3, p4) {
+                    var err = "Error " + " " + status + " " + p3 + " " + p4;
+                    if (xhr.responseText)
+                        err = xhr.responseText;
+                    alert(err);
+                }
+            })
+        });
+
+        function DeleteLuckyDraw(ID) {
+            let text = "Bạn có chắc muốn xóa chương trình ?";
+            if (confirm(text) == true) {
+                $.ajax({
+                    type: "DELETE",
+                    url: "/Home/DeleteLuckyDraw",
+                    data: {
+                        id: ID
+                    },
+                    success: function (response) {
+                        if (response == true) {
+                            alert("Xóa dữ liệu thành công !");
+                        }
+                        else {
+                            alert("Xóa dữ liệu thất bại !")
+                        }
+                        window.location.href = "/Home/Index";
+                    },
+                    failure: function (response) {
+                        alert(response);
+                    },
+                    error: function (response) {
+                        alert(response);
+                    }
+                });
+            }
+
+        };
+
+        function SaveDataXoSo() {
+            var table = document.getElementById("gridLuckyRaw");
+            var data = [];
+            for (var i = 1; i < table.rows.length; i++) {
+                var row = table.rows[i];
+                var rowData = {
+                    MaKH: row.cells[1].textContent.trim(),
+                    SoLuong: row.cells[2].textContent.trim(),
+                    Title: row.cells[3].textContent.trim(),
+                    DateFrom: row.cells[4].textContent.trim(),
+                    DateTo: row.cells[5].textContent.trim(),
+                    SoLuongXoSo: row.cells[6].textContent.trim()
+                };
+                data.push(rowData);
+            }
+            var jsonData = JSON.stringify(data);
+
+            $.ajax({
+                type: "POST",
+                processData: true,
+                url: "/Home/SaveDataXoSo",
+                data: {
+                    data: jsonData
+                },
+                success: function (response) {
+                    alert(response);
+                    //location.reload(true);
+                    window.location.href = "/Data/ImportChuongTrinhXoSo?i=9";
+                },
+                failure: function (response) {
+                    alert(response.responseText);
+                },
+                error: function (response) {
+                    alert(response.responseText);
+                }
+            });
+        };
+
+            //function selectedRow() {
+            //    alert("OK");
+            //    var index;
+            //    table = document.getElementById("gridLuckyDraw");
+
+            //    for (var i = 1; i < table.rows.length; i++) {
+            //        table.rows[i].onclick = function () {
+            //            // remove the background from the previous selected row
+            //            if (typeof index !== "undefined") {
+            //                table.rows[index].classList.toggle("selected");
+            //            }
+            //            console.log(typeof index);
+            //            // get the selected row index
+            //            index = this.rowIndex;
+            //            // add class selected to the row
+            //            this.classList.toggle("selected");
+            //            var ID = table.getElementsByTagName('tr')[index].id;
+
+            //            $.ajax({
+            //                type: "GET",
+            //                url: "/Home/GetLuckyDraw",
+            //                data: { id: ID },
+            //                dataType: "json",
+            //                beforeSend: function () {
+            //                    //show loading
+            //                },
+            //                complete: function () {
+            //                    //hide loading
+            //                },
+            //                success: function (resultData) {
+            //                    console.log(resultData);
+            //                    //document.getElementById("buttonName").value = "Update";
+            //                    //document.getElementById("ID").value = ID;
+            //                    //document.getElementById("title").value = resultData.title;
+            //                    //document.getElementById("datefrom").value = resultData.dateFrom;
+            //                    //document.getElementById("dateto").value = resultData.dateTo;
+            //                    //document.getElementById("soluong").value = resultData.soLuong;
+            //                    //document.getElementById("soluong").disabled = true;
+            //                    //CKEDITOR.instances.description.setData(resultData.description);
+
+            //                },
+            //                error: function (xhr, status, p3, p4) {
+            //                    var err = "Error " + " " + status + " " + p3 + " " + p4;
+            //                    if (xhr.responseText)
+            //                        err = xhr.responseText;
+            //                    alert(err);
+            //                }
+            //            })
+            //        };
+            //    }
+
+
+            //}
+
+            //selectedRow();
+    </script>
+
+

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="urn:issue_certificate" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns="http://schemas.xmlsoap.org/wsdl/" targetNamespace="urn:issue_certificate" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="urn:issue_certificate">
+      <xsd:import namespace="http://schemas.xmlsoap.org/soap/encoding/" />
+      <xsd:import namespace="http://schemas.xmlsoap.org/wsdl/" />
+      <xsd:complexType name="status_msg">
+        <xsd:all>
+          <xsd:element name="status" type="xsd:int" />
+          <xsd:element name="message" type="xsd:string" />
+        </xsd:all>
+      </xsd:complexType>
+      <xsd:complexType name="Person">
+        <xsd:all>
+          <xsd:element name="firstname" type="xsd:string" />
+          <xsd:element name="lastname" type="xsd:string" />
+          <xsd:element name="gender" type="xsd:string" />
+          <xsd:element name="date_of_birth" type="xsd:string" />
+          <xsd:element name="member_type" type="xsd:string" />
+          <xsd:element name="passport" type="xsd:string" />
+          <xsd:element name="valid_status" type="xsd:int" />
+          <xsd:element name="valid_message" type="xsd:string" />
+        </xsd:all>
+      </xsd:complexType>
+      <xsd:complexType name="PersonArray">
+        <xsd:complexContent mixed="false">
+          <xsd:restriction base="SOAP-ENC:Array">
+            <xsd:attribute wsdl:arrayType="tns:Person[]" ref="SOAP-ENC:arrayType" />
+          </xsd:restriction>
+        </xsd:complexContent>
+      </xsd:complexType>
+      <xsd:complexType name="PersonStatus">
+        <xsd:all>
+          <xsd:element name="firstname" type="xsd:string" />
+          <xsd:element name="lastname" type="xsd:string" />
+          <xsd:element name="status" type="xsd:int" />
+          <xsd:element name="message" type="xsd:string" />
+        </xsd:all>
+      </xsd:complexType>
+      <xsd:complexType name="PersonStatusArray">
+        <xsd:complexContent mixed="false">
+          <xsd:restriction base="SOAP-ENC:Array">
+            <xsd:attribute wsdl:arrayType="tns:PersonStatus[]" ref="SOAP-ENC:arrayType" />
+          </xsd:restriction>
+        </xsd:complexContent>
+      </xsd:complexType>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="getCertificateRequest">
+    <wsdl:part name="token" type="xsd:string" />
+    <wsdl:part name="ref_no" type="xsd:string" />
+    <wsdl:part name="holder_name" type="xsd:string" />
+    <wsdl:part name="holder_address" type="xsd:string" />
+    <wsdl:part name="phone" type="xsd:string" />
+    <wsdl:part name="residence_country" type="xsd:string" />
+    <wsdl:part name="departure_country" type="xsd:string" />
+    <wsdl:part name="type" type="xsd:string" />
+    <wsdl:part name="date_from" type="xsd:string" />
+    <wsdl:part name="date_to" type="xsd:string" />
+    <wsdl:part name="plan_id" type="xsd:string" />
+    <wsdl:part name="member_list" type="tns:PersonArray" />
+    <wsdl:part name="trial" type="xsd:int" />
+    <wsdl:part name="inv_company" type="xsd:string" />
+    <wsdl:part name="inv_address" type="xsd:string" />
+    <wsdl:part name="inv_tax" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="getCertificateResponse">
+    <wsdl:part name="error" type="xsd:string" />
+    <wsdl:part name="pdf_file1" type="xsd:string" />
+    <wsdl:part name="pdf_file2" type="xsd:string" />
+    <wsdl:part name="internal_cert_number" type="xsd:string" />
+    <wsdl:part name="total_price" type="xsd:int" />
+    <wsdl:part name="unit_price" type="xsd:int" />
+  </wsdl:message>
+  <wsdl:message name="getCertPDFRequest">
+    <wsdl:part name="token" type="xsd:string" />
+    <wsdl:part name="ref_no" type="xsd:string" />
+    <wsdl:part name="logo" type="xsd:int" />
+  </wsdl:message>
+  <wsdl:message name="getCertPDFResponse">
+    <wsdl:part name="error" type="xsd:string" />
+    <wsdl:part name="pdf_file1" type="xsd:string" />
+    <wsdl:part name="pdf_file2" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:portType name="issue_certificatePortType">
+    <wsdl:operation name="getCertificate">
+      <wsdl:input message="tns:getCertificateRequest" />
+      <wsdl:output message="tns:getCertificateResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="getCertPDF">
+      <wsdl:input message="tns:getCertPDFRequest" />
+      <wsdl:output message="tns:getCertPDFResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="issue_certificateBinding" type="tns:issue_certificatePortType">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <wsdl:operation name="getCertificate">
+      <soap:operation soapAction="urn:issue_certificate#getCertificate" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="urn:issue_certificate" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="urn:issue_certificate" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getCertPDF">
+      <soap:operation soapAction="urn:issue_certificate#getCertPDF" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="urn:issue_certificate" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="urn:issue_certificate" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="issue_certificate">
+    <wsdl:port name="issue_certificatePort" binding="tns:issue_certificateBinding">
+      <soap:address location="http://bluecross.com.vn/webservice/issue_certificate.php" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

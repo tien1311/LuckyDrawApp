@@ -1,0 +1,114 @@
+﻿@model LuckyDrawApp.Models.ThongTinXoSoModel
+
+
+<div class="modal-dialog modal-lg">
+
+    <!-- Modal content-->
+    <div class="modal-content" style=" background: #2A3F54;">
+        <div class="modal-header">
+            <button type="button" class="close" style=" color: #fff;" data-dismiss="modal">&times;</button>
+            <h1 style="color: #FFF; font-size: 16px;">Model.ListXoSo[0].Title</h1>
+        </div>
+        <div class="modal-body" style="border-radius:8px; background-color:#fff;">
+            <div class="row">
+                <div class="col-sm-2">
+                    <div class="form-group">
+                        <label>Mã KH</label>
+                        <input type="text" class="form-control" id="MaKH" name="MaKH" placeholder="" value="">
+                        <input type="hidden" class="form-control" id="ID" name="ID" placeholder="" value="Model.ListXoSo[0].ID">
+                    </div>
+                </div>
+                <div class="col-sm-2">
+                    <div class="form-group">
+                        <label>Số may mắn</label>
+                        <input type="text" class="form-control" id="SoLuong" name="SoLuong" placeholder="" value="0">
+                    </div>
+                </div>
+                <div class="col-sm-2">
+                    <div class="form-group">
+                        <label>Ghi chú</label>
+                        <input type="text" class="form-control" id="SoLuong" name="SoLuong" placeholder="" value="0">
+                    </div>
+                </div>
+                <div class="col-sm-2">
+                    <div class="form-group">
+                        <label>&nbsp;</label>
+                        <div>
+                            <button type="button" class="btn btn-success btn-block" onclick="InsertDetail()" name="Save" value="Save">Thêm</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="x_panel">
+                        <div class="x_title">
+                            <h2>
+                                Danh sách chi tiết
+                            </h2>
+                            <div class="clearfix"></div>
+                        </div>
+                        <div class="x_content" style="display: block;">
+                            <div class="row">
+                                <div class="col-sm-2">
+                                    <div class="form-group">
+                                        <label>Mã KH</label>
+                                        <input type="text" class="form-control" id="MaKH_Search" name="MaKH_Search" placeholder="" value="">
+                                    </div>
+                                </div>
+                                <div class="col-sm-2">
+                                    <div class="form-group">
+                                        <label>&nbsp;</label>
+                                        <div>
+                                            <button type="button" class="btn btn-primary btn-block" onclick="SearchMaKH()" name="Search" value="Search">Tìm kiếm</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="table-responsive">
+                                    <table id="gridXoSoDetail" class="table table-striped jambo_table bulk_action">
+                                        <thead>
+                                            <tr>
+                                                <th class="column-title">STT </th>
+                                                <th class="column-title">Mã KH </th>
+                                                <th class="column-title">Số may mắn </th>
+                                                <th class="column-title">Ghi chú </th>
+                                                <th class="column-title"> </th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            @{
+                                                if (Model != null)
+                                                {
+                                                    if (Model.ListXoSoDetail.Count > 0)
+                                                    {
+                                                        int stt = 1;
+                                                        for (int i = 0; i < Model.ListXoSoDetail.Count; i++)
+                                                        {
+                                                            <tr id="@Model.ListXoSoDetail[i].ID">
+                                                                <td>@stt</td>
+                                                                <td>@Model.ListXoSoDetail[i].MaKH</td>
+                                                                <td>@Model.ListXoSoDetail[i].SoLuong</td>
+                                                                <td>@Model.ListXoSoDetail[i].SoLuong</td>
+                                                                @{
+                                                                    stt = stt + 1;
+                                                                }
+                                                                <td> <a class="Status" style="color:red;" onclick="DeleteDetail(this,@Model.ListXoSoDetail[i].ID)" href="javascript:;"><i class="fa fa-trash" style="font-size:14px;" aria-hidden="true"></i></a></td>
+                                                            </tr>
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

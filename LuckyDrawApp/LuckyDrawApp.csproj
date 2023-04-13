@@ -1,0 +1,421 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <TypeScriptToolsVersion>3.2</TypeScriptToolsVersion>
+    <StartupObject></StartupObject>
+    <UserSecretsId>21e782f5-e04d-41be-8662-376fddbc8a03</UserSecretsId>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile></DocumentationFile>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>D:\Én Viẹt\LuckyDrawApp_NetCoreTemp\LuckyDrawApp\LuckyDrawApp.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Content\**" />
+    <Compile Remove="obj\**" />
+    <Content Remove="Content\**" />
+    <Content Remove="obj\**" />
+    <EmbeddedResource Remove="Content\**" />
+    <EmbeddedResource Remove="obj\**" />
+    <None Remove="Content\**" />
+    <None Remove="obj\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\netcoreapp2.1\LuckyDrawApp.deps.json" />
+    <Content Include="bin\Debug\netcoreapp2.1\LuckyDrawApp.runtimeconfig.dev.json" />
+    <Content Include="bin\Debug\netcoreapp2.1\LuckyDrawApp.runtimeconfig.json" />
+    <Content Include="bin\Debug\netcoreapp2.1\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
+    <Content Include="bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml" />
+    <Content Include="bin\Debug\netcoreapp2.1\PagedList.Mvc.xml" />
+    <Content Include="bin\Debug\netcoreapp2.1\PagedList.xml" />
+    <Content Include="bin\Debug\netcoreapp2.1\System.Web.Helpers.xml" />
+    <Content Include="bin\Debug\netcoreapp2.1\System.Web.Mvc.xml" />
+    <Content Include="bin\Debug\netcoreapp2.1\System.Web.Optimization.xml" />
+    <Content Include="bin\Debug\netcoreapp2.1\System.Web.Razor.xml" />
+    <Content Include="bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.xml" />
+    <Content Include="bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.xml" />
+    <Content Include="bin\Debug\netcoreapp2.1\System.Web.WebPages.xml" />
+    <Content Include="bin\Release\netcoreapp2.1\LuckyDrawApp.deps.json" />
+    <Content Include="bin\Release\netcoreapp2.1\LuckyDrawApp.runtimeconfig.dev.json" />
+    <Content Include="bin\Release\netcoreapp2.1\LuckyDrawApp.runtimeconfig.json" />
+    <Content Include="bin\Release\netcoreapp2.1\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
+    <Content Include="bin\Release\netcoreapp2.1\System.Web.Helpers.xml" />
+    <Content Include="bin\Release\netcoreapp2.1\System.Web.Mvc.xml" />
+    <Content Include="bin\Release\netcoreapp2.1\System.Web.Optimization.xml" />
+    <Content Include="bin\Release\netcoreapp2.1\System.Web.Razor.xml" />
+    <Content Include="bin\Release\netcoreapp2.1\System.Web.WebPages.Deployment.xml" />
+    <Content Include="bin\Release\netcoreapp2.1\System.Web.WebPages.Razor.xml" />
+    <Content Include="bin\Release\netcoreapp2.1\System.Web.WebPages.xml" />
+    <Content Include="bin\Release\netcoreapp2.1\win-x64\LuckyDrawApp.deps.json" />
+    <Content Include="bin\Release\netcoreapp2.1\win-x64\LuckyDrawApp.runtimeconfig.dev.json" />
+    <Content Include="bin\Release\netcoreapp2.1\win-x64\LuckyDrawApp.runtimeconfig.json" />
+    <Content Include="bin\Release\netcoreapp2.1\win-x64\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
+    <Content Include="bin\Release\netcoreapp2.1\win-x64\System.Web.Helpers.xml" />
+    <Content Include="bin\Release\netcoreapp2.1\win-x64\System.Web.Mvc.xml" />
+    <Content Include="bin\Release\netcoreapp2.1\win-x64\System.Web.Optimization.xml" />
+    <Content Include="bin\Release\netcoreapp2.1\win-x64\System.Web.Razor.xml" />
+    <Content Include="bin\Release\netcoreapp2.1\win-x64\System.Web.WebPages.Deployment.xml" />
+    <Content Include="bin\Release\netcoreapp2.1\win-x64\System.Web.WebPages.Razor.xml" />
+    <Content Include="bin\Release\netcoreapp2.1\win-x64\System.Web.WebPages.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.78" />
+    <PackageReference Include="EPPlus" Version="4.5.2.1" />
+    <PackageReference Include="ExcelDataReader" Version="3.6.0" />
+    <PackageReference Include="Microsoft.AspNetCore" Version="2.1.7" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.1.3" />
+    <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="2.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.1.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.1.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.1.14">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.ApiDescription.Client" Version="3.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Caching.Redis" Version="2.1.2" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="2.1.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink" Version="2.1.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.10" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="4.14.0" />
+    <PackageReference Include="NSwag.ApiDescription.Client" Version="13.0.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="ReflectionIT.Mvc.Paging" Version="2.2.0" />
+    <PackageReference Include="RtfPipe" Version="2.0.7677.4303" />
+    <PackageReference Include="Syncfusion.HtmlToPdfConverter.QtWebKit.Net.Core" Version="20.1.0.47" />
+    <PackageReference Include="System.Security.Claims" Version="4.3.0" />
+    <PackageReference Include="System.ServiceModel.Duplex" Version="4.4.*" />
+    <PackageReference Include="System.ServiceModel.Http" Version="4.4.*" />
+    <PackageReference Include="System.ServiceModel.NetTcp" Version="4.4.*" />
+    <PackageReference Include="System.ServiceModel.Security" Version="4.4.*" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Debug\netcoreapp2.0\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="wwwroot\UploadFile\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\netcoreapp2.1\Antlr3.Runtime.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\Antlr3.Runtime.pdb" />
+    <None Include="bin\Debug\netcoreapp2.1\csc.exe" />
+    <None Include="bin\Debug\netcoreapp2.1\csc.exe.config" />
+    <None Include="bin\Debug\netcoreapp2.1\csi.exe" />
+    <None Include="bin\Debug\netcoreapp2.1\csi.exe.config" />
+    <None Include="bin\Debug\netcoreapp2.1\LuckyDrawApp.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\LuckyDrawApp.pdb" />
+    <None Include="bin\Debug\netcoreapp2.1\LuckyDrawApp.Views.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\LuckyDrawApp.Views.pdb" />
+    <None Include="bin\Debug\netcoreapp2.1\Microsoft.ApplicationBlocks.Data.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\Microsoft.Build.Tasks.CodeAnalysis.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.CSharp.Scripting.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.Scripting.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.VisualBasic.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\Microsoft.Web.Infrastructure.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\PagedList.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\PagedList.Mvc.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\csc.exe" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\csc.exe.config" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\csc.rsp" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\csi.exe" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\csi.exe.config" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\csi.rsp" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\Microsoft.Build.Tasks.CodeAnalysis.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\Microsoft.CodeAnalysis.CSharp.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\Microsoft.CodeAnalysis.CSharp.Scripting.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\Microsoft.CodeAnalysis.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\Microsoft.CodeAnalysis.Scripting.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\Microsoft.CodeAnalysis.VisualBasic.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\Microsoft.CSharp.Core.targets" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\Microsoft.DiaSymReader.Native.amd64.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\Microsoft.DiaSymReader.Native.x86.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\Microsoft.Managed.Core.targets" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\Microsoft.VisualBasic.Core.targets" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\System.AppContext.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\System.Collections.Immutable.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\System.Console.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\System.Diagnostics.FileVersionInfo.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\System.Diagnostics.StackTrace.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\System.IO.Compression.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\System.IO.FileSystem.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\System.IO.FileSystem.Primitives.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\System.IO.Pipes.AccessControl.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\System.IO.Pipes.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\System.Reflection.Metadata.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\System.Security.AccessControl.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\System.Security.Claims.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\System.Security.Cryptography.Algorithms.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\System.Security.Cryptography.Encoding.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\System.Security.Cryptography.Primitives.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\System.Security.Cryptography.X509Certificates.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\System.Security.Principal.Windows.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\System.Text.Encoding.CodePages.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\System.ValueTuple.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\System.Xml.ReaderWriter.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\System.Xml.XmlDocument.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\System.Xml.XPath.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\System.Xml.XPath.XDocument.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\vbc.exe" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\vbc.exe.config" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\vbc.rsp" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\VBCSCompiler.exe" />
+    <None Include="bin\Debug\netcoreapp2.1\refs\VBCSCompiler.exe.config" />
+    <None Include="bin\Debug\netcoreapp2.1\System.Web.Helpers.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\System.Web.Mvc.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\System.Web.Optimization.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\System.Web.Razor.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\System.Web.WebPages.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\TangDuLieu.dll" />
+    <None Include="bin\Release\netcoreapp2.1\Antlr3.Runtime.dll" />
+    <None Include="bin\Release\netcoreapp2.1\Antlr3.Runtime.pdb" />
+    <None Include="bin\Release\netcoreapp2.1\csc.exe" />
+    <None Include="bin\Release\netcoreapp2.1\csc.exe.config" />
+    <None Include="bin\Release\netcoreapp2.1\csi.exe" />
+    <None Include="bin\Release\netcoreapp2.1\csi.exe.config" />
+    <None Include="bin\Release\netcoreapp2.1\LuckyDrawApp.dll" />
+    <None Include="bin\Release\netcoreapp2.1\LuckyDrawApp.pdb" />
+    <None Include="bin\Release\netcoreapp2.1\LuckyDrawApp.Views.dll" />
+    <None Include="bin\Release\netcoreapp2.1\LuckyDrawApp.Views.pdb" />
+    <None Include="bin\Release\netcoreapp2.1\Microsoft.ApplicationBlocks.Data.dll" />
+    <None Include="bin\Release\netcoreapp2.1\Microsoft.Build.Tasks.CodeAnalysis.dll" />
+    <None Include="bin\Release\netcoreapp2.1\Microsoft.CodeAnalysis.CSharp.Scripting.dll" />
+    <None Include="bin\Release\netcoreapp2.1\Microsoft.CodeAnalysis.Scripting.dll" />
+    <None Include="bin\Release\netcoreapp2.1\Microsoft.CodeAnalysis.VisualBasic.dll" />
+    <None Include="bin\Release\netcoreapp2.1\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
+    <None Include="bin\Release\netcoreapp2.1\Microsoft.Web.Infrastructure.dll" />
+    <None Include="bin\Release\netcoreapp2.1\refs\System.IO.Pipes.AccessControl.dll" />
+    <None Include="bin\Release\netcoreapp2.1\refs\System.Text.Encoding.CodePages.dll" />
+    <None Include="bin\Release\netcoreapp2.1\System.Web.Helpers.dll" />
+    <None Include="bin\Release\netcoreapp2.1\System.Web.Mvc.dll" />
+    <None Include="bin\Release\netcoreapp2.1\System.Web.Optimization.dll" />
+    <None Include="bin\Release\netcoreapp2.1\System.Web.Razor.dll" />
+    <None Include="bin\Release\netcoreapp2.1\System.Web.WebPages.Deployment.dll" />
+    <None Include="bin\Release\netcoreapp2.1\System.Web.WebPages.dll" />
+    <None Include="bin\Release\netcoreapp2.1\System.Web.WebPages.Razor.dll" />
+    <None Include="bin\Release\netcoreapp2.1\TangDuLieu.dll" />
+    <None Include="bin\Release\netcoreapp2.1\TangDuLieu.pdb" />
+    <None Include="bin\Release\netcoreapp2.1\vbc.exe" />
+    <None Include="bin\Release\netcoreapp2.1\vbc.exe.config" />
+    <None Include="bin\Release\netcoreapp2.1\VBCSCompiler.exe" />
+    <None Include="bin\Release\netcoreapp2.1\VBCSCompiler.exe.config" />
+    <None Include="bin\Release\netcoreapp2.1\WebGrease.dll" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\Antlr3.Runtime.dll" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\Antlr3.Runtime.pdb" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\csc.exe" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\csc.exe.config" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\csi.exe" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\csi.exe.config" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\LuckyDrawApp.dll" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\LuckyDrawApp.exe" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\LuckyDrawApp.pdb" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\LuckyDrawApp.Views.dll" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\LuckyDrawApp.Views.pdb" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\Microsoft.ApplicationBlocks.Data.dll" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\Microsoft.Build.Tasks.CodeAnalysis.dll" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\Microsoft.CodeAnalysis.CSharp.Scripting.dll" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\Microsoft.CodeAnalysis.Scripting.dll" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\Microsoft.CodeAnalysis.VisualBasic.dll" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\Microsoft.Web.Infrastructure.dll" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\refs\System.IO.Pipes.AccessControl.dll" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\refs\System.Text.Encoding.CodePages.dll" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\System.Web.Helpers.dll" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\System.Web.Mvc.dll" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\System.Web.Optimization.dll" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\System.Web.Razor.dll" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\System.Web.WebPages.Deployment.dll" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\System.Web.WebPages.dll" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\System.Web.WebPages.Razor.dll" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\TangDuLieu.dll" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\TangDuLieu.pdb" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\vbc.exe" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\vbc.exe.config" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\VBCSCompiler.exe" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\VBCSCompiler.exe.config" />
+    <None Include="bin\Release\netcoreapp2.1\win-x64\WebGrease.dll" />
+    <None Include="Views\Shared\Components\Pager\Bootstrap3.cshtml" />
+    <None Include="Views\Shared\MasterLayout.cshtml" />
+    <None Include="Views\Shared\_Footer.cshtml" />
+    <None Include="Views\Shared\_Header.cshtml" />
+    <None Include="Views\Shared\_Info.cshtml" />
+    <None Include="Views\Shared\_Scripts.cshtml" />
+    <None Include="Views\Shared\_SideFooter.cshtml" />
+    <None Include="Views\Shared\_SideMenu.cshtml" />
+    <None Include="Views\Shared\_SideProfile.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EV.Common\EV.Common.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Antlr3.Runtime">
+      <HintPath>E:\LuckyDrawApp_NetCore123\LuckyDrawApp\bin\Debug\netcoreapp2.1\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="csc">
+      <HintPath>E:\LuckyDrawApp_NetCore123\LuckyDrawApp\bin\Debug\netcoreapp2.1\csc.exe</HintPath>
+    </Reference>
+    <Reference Include="csi">
+      <HintPath>E:\LuckyDrawApp_NetCore123\LuckyDrawApp\bin\Debug\netcoreapp2.1\csi.exe</HintPath>
+    </Reference>
+    <Reference Include="EasyInvoice.Client">
+      <HintPath>bin\Debug\netcoreapp2.1\EasyInvoice.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="EasyInvoice.Json">
+      <HintPath>bin\Debug\netcoreapp2.1\EasyInvoice.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ApplicationBlocks.Data">
+      <HintPath>E:\LuckyDrawApp_NetCore123\LuckyDrawApp\bin\Debug\netcoreapp2.1\Microsoft.ApplicationBlocks.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Build.Tasks.CodeAnalysis">
+      <HintPath>E:\LuckyDrawApp_NetCore123\LuckyDrawApp\bin\Debug\netcoreapp2.1\Microsoft.Build.Tasks.CodeAnalysis.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeAnalysis">
+      <HintPath>D:\Én Viẹt\DaiLyEV\DaiLyEV\bin\roslyn\Microsoft.CodeAnalysis.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeAnalysis.CSharp">
+      <HintPath>D:\Én Viẹt\DaiLyEV\DaiLyEV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeAnalysis.CSharp.Scripting">
+      <HintPath>E:\LuckyDrawApp_NetCore123\LuckyDrawApp\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.CSharp.Scripting.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeAnalysis.Scripting">
+      <HintPath>E:\LuckyDrawApp_NetCore123\LuckyDrawApp\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.Scripting.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeAnalysis.VisualBasic">
+      <HintPath>E:\LuckyDrawApp_NetCore123\LuckyDrawApp\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.VisualBasic.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>E:\LuckyDrawApp_NetCore123\LuckyDrawApp\bin\Debug\netcoreapp2.1\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Infrastructure">
+      <HintPath>E:\LuckyDrawApp_NetCore123\LuckyDrawApp\bin\Debug\netcoreapp2.1\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>D:\Én Viẹt\DaiLyEV\DaiLyEV\bin\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.AppContext">
+      <HintPath>D:\Én Viẹt\DaiLyEV\DaiLyEV\bin\roslyn\System.AppContext.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Immutable">
+      <HintPath>D:\Én Viẹt\DaiLyEV\DaiLyEV\bin\roslyn\System.Collections.Immutable.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Console">
+      <HintPath>D:\Én Viẹt\DaiLyEV\DaiLyEV\bin\roslyn\System.Console.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.FileVersionInfo">
+      <HintPath>D:\Én Viẹt\DaiLyEV\DaiLyEV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.StackTrace">
+      <HintPath>D:\Én Viẹt\DaiLyEV\DaiLyEV\bin\roslyn\System.Diagnostics.StackTrace.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression">
+      <HintPath>D:\Én Viẹt\DaiLyEV\DaiLyEV\bin\roslyn\System.IO.Compression.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem">
+      <HintPath>D:\Én Viẹt\DaiLyEV\DaiLyEV\bin\roslyn\System.IO.FileSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Primitives">
+      <HintPath>D:\Én Viẹt\DaiLyEV\DaiLyEV\bin\roslyn\System.IO.FileSystem.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Pipes">
+      <HintPath>D:\Én Viẹt\DaiLyEV\DaiLyEV\bin\roslyn\System.IO.Pipes.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Pipes.AccessControl">
+      <HintPath>D:\Én Viẹt\DaiLyEV\DaiLyEV\bin\roslyn\System.IO.Pipes.AccessControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Metadata">
+      <HintPath>D:\Én Viẹt\DaiLyEV\DaiLyEV\bin\roslyn\System.Reflection.Metadata.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Algorithms">
+      <HintPath>D:\Én Viẹt\DaiLyEV\DaiLyEV\bin\roslyn\System.Security.Cryptography.Algorithms.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Encoding">
+      <HintPath>D:\Én Viẹt\DaiLyEV\DaiLyEV\bin\roslyn\System.Security.Cryptography.Encoding.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Primitives">
+      <HintPath>D:\Én Viẹt\DaiLyEV\DaiLyEV\bin\roslyn\System.Security.Cryptography.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.X509Certificates">
+      <HintPath>D:\Én Viẹt\DaiLyEV\DaiLyEV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Principal.Windows">
+      <HintPath>D:\Én Viẹt\DaiLyEV\DaiLyEV\bin\roslyn\System.Security.Principal.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encoding.CodePages">
+      <HintPath>E:\LuckyDrawApp_NetCore123\LuckyDrawApp\bin\Debug\netcoreapp2.1\refs\System.Text.Encoding.CodePages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple">
+      <HintPath>D:\Én Viẹt\DaiLyEV\DaiLyEV\bin\roslyn\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Helpers">
+      <HintPath>E:\LuckyDrawApp_NetCore123\LuckyDrawApp\bin\Debug\netcoreapp2.1\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc">
+      <HintPath>E:\LuckyDrawApp_NetCore123\LuckyDrawApp\bin\Debug\netcoreapp2.1\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization">
+      <HintPath>E:\LuckyDrawApp_NetCore123\LuckyDrawApp\bin\Debug\netcoreapp2.1\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor">
+      <HintPath>E:\LuckyDrawApp_NetCore123\LuckyDrawApp\bin\Debug\netcoreapp2.1\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages">
+      <HintPath>E:\LuckyDrawApp_NetCore123\LuckyDrawApp\bin\Debug\netcoreapp2.1\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment">
+      <HintPath>E:\LuckyDrawApp_NetCore123\LuckyDrawApp\bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor">
+      <HintPath>E:\LuckyDrawApp_NetCore123\LuckyDrawApp\bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.ReaderWriter">
+      <HintPath>D:\Én Viẹt\DaiLyEV\DaiLyEV\bin\roslyn\System.Xml.ReaderWriter.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XmlDocument">
+      <HintPath>D:\Én Viẹt\DaiLyEV\DaiLyEV\bin\roslyn\System.Xml.XmlDocument.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XPath">
+      <HintPath>D:\Én Viẹt\DaiLyEV\DaiLyEV\bin\roslyn\System.Xml.XPath.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XPath.XDocument">
+      <HintPath>D:\Én Viẹt\DaiLyEV\DaiLyEV\bin\roslyn\System.Xml.XPath.XDocument.dll</HintPath>
+    </Reference>
+    <Reference Include="TangDuLieu">
+      <HintPath>bin\Debug\netcoreapp2.1\TangDuLieu.dll</HintPath>
+    </Reference>
+    <Reference Include="vbc">
+      <HintPath>E:\LuckyDrawApp_NetCore123\LuckyDrawApp\bin\Debug\netcoreapp2.1\vbc.exe</HintPath>
+    </Reference>
+    <Reference Include="VBCSCompiler">
+      <HintPath>E:\LuckyDrawApp_NetCore123\LuckyDrawApp\bin\Debug\netcoreapp2.1\VBCSCompiler.exe</HintPath>
+    </Reference>
+    <Reference Include="WebGrease">
+      <HintPath>E:\LuckyDrawApp_NetCore123\LuckyDrawApp\bin\Debug\netcoreapp2.1\WebGrease.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services" />
+  </ItemGroup>
+
+</Project>

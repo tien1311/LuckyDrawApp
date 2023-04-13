@@ -1,0 +1,258 @@
+M:\VDT\Work\newdaily_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.deps.json
+M:\VDT\Work\newdaily_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.dll
+M:\VDT\Work\newdaily_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csprojAssemblyReference.cache
+M:\VDT\Work\newdaily_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfoInputs.cache
+M:\VDT\Work\newdaily_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfo.cs
+M:\VDT\Work\newdaily_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CopyComplete
+M:\VDT\Work\newdaily_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.pdb
+M:\VDT\Work\newdaily_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.dll
+M:\VDT\Work\newdaily_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.pdb
+M:\VDT\Work\newdaily_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Mvc.dll
+M:\VDT\Work\newdaily_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.dll
+M:\VDT\Work\newdaily_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.dll
+M:\VDT\Work\newdaily_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Razor.dll
+M:\VDT\Work\newdaily_NetCore\EV.Common\bin\Debug\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
+M:\VDT\Work\newdaily_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.dll
+W:\Relocate\EV\newdaily.netcore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.deps.json
+W:\Relocate\EV\newdaily.netcore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.dll
+W:\Relocate\EV\newdaily.netcore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.pdb
+W:\Relocate\EV\newdaily.netcore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Mvc.dll
+W:\Relocate\EV\newdaily.netcore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.dll
+W:\Relocate\EV\newdaily.netcore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.dll
+W:\Relocate\EV\newdaily.netcore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Razor.dll
+W:\Relocate\EV\newdaily.netcore\EV.Common\bin\Debug\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
+W:\Relocate\EV\newdaily.netcore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.dll
+W:\Relocate\EV\newdaily.netcore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csprojAssemblyReference.cache
+W:\Relocate\EV\newdaily.netcore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfoInputs.cache
+W:\Relocate\EV\newdaily.netcore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfo.cs
+W:\Relocate\EV\newdaily.netcore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CopyComplete
+W:\Relocate\EV\newdaily.netcore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.dll
+W:\Relocate\EV\newdaily.netcore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.pdb
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.deps.json
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.dll
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.pdb
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Mvc.dll
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.dll
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.dll
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Razor.dll
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.dll
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CoreCompileInputs.cache
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfoInputs.cache
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfo.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CopyComplete
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.dll
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.pdb
+D:\Én Viẹt\Source\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.deps.json
+D:\Én Viẹt\Source\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.dll
+D:\Én Viẹt\Source\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.pdb
+D:\Én Viẹt\Source\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Mvc.dll
+D:\Én Viẹt\Source\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.dll
+D:\Én Viẹt\Source\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.dll
+D:\Én Viẹt\Source\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Razor.dll
+D:\Én Viẹt\Source\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
+D:\Én Viẹt\Source\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.dll
+D:\Én Viẹt\Source\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CoreCompileInputs.cache
+D:\Én Viẹt\Source\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfoInputs.cache
+D:\Én Viẹt\Source\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfo.cs
+D:\Én Viẹt\Source\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CopyComplete
+D:\Én Viẹt\Source\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.dll
+D:\Én Viẹt\Source\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.pdb
+D:\EnViet\Source\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.deps.json
+D:\EnViet\Source\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.dll
+D:\EnViet\Source\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.pdb
+D:\EnViet\Source\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Mvc.dll
+D:\EnViet\Source\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.dll
+D:\EnViet\Source\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.dll
+D:\EnViet\Source\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Razor.dll
+D:\EnViet\Source\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
+D:\EnViet\Source\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.dll
+D:\EnViet\Source\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CoreCompileInputs.cache
+D:\EnViet\Source\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfoInputs.cache
+D:\EnViet\Source\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfo.cs
+D:\EnViet\Source\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CopyComplete
+D:\EnViet\Source\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.dll
+D:\EnViet\Source\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.pdb
+D:\EnViet\Source\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csprojAssemblyReference.cache
+D:\web làm\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.deps.json
+D:\web làm\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.dll
+D:\web làm\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.pdb
+D:\web làm\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Mvc.dll
+D:\web làm\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.dll
+D:\web làm\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.dll
+D:\web làm\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Razor.dll
+D:\web làm\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
+D:\web làm\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.dll
+D:\web làm\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfoInputs.cache
+D:\web làm\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfo.cs
+D:\web làm\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CoreCompileInputs.cache
+D:\web làm\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CopyComplete
+D:\web làm\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.dll
+D:\web làm\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.pdb
+D:\web làm\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csprojAssemblyReference.cache
+C:\Users\NGUYENLONG\Downloads\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.deps.json
+C:\Users\NGUYENLONG\Downloads\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.dll
+C:\Users\NGUYENLONG\Downloads\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.pdb
+C:\Users\NGUYENLONG\Downloads\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Mvc.dll
+C:\Users\NGUYENLONG\Downloads\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.dll
+C:\Users\NGUYENLONG\Downloads\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.dll
+C:\Users\NGUYENLONG\Downloads\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Razor.dll
+C:\Users\NGUYENLONG\Downloads\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
+C:\Users\NGUYENLONG\Downloads\Manager_EV_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.dll
+C:\Users\NGUYENLONG\Downloads\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csprojAssemblyReference.cache
+C:\Users\NGUYENLONG\Downloads\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfoInputs.cache
+C:\Users\NGUYENLONG\Downloads\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfo.cs
+C:\Users\NGUYENLONG\Downloads\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CoreCompileInputs.cache
+C:\Users\NGUYENLONG\Downloads\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CopyComplete
+C:\Users\NGUYENLONG\Downloads\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.dll
+C:\Users\NGUYENLONG\Downloads\Manager_EV_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.pdb
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.deps.json
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.pdb
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Mvc.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Razor.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\EV.Common\bin\Debug\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfoInputs.cache
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfo.cs
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CoreCompileInputs.cache
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CopyComplete
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.pdb
+C:\Users\ngomi\Desktop\Manager_EV_NetCore - Copy\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.deps.json
+C:\Users\ngomi\Desktop\Manager_EV_NetCore - Copy\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.dll
+C:\Users\ngomi\Desktop\Manager_EV_NetCore - Copy\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.pdb
+C:\Users\ngomi\Desktop\Manager_EV_NetCore - Copy\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Mvc.dll
+C:\Users\ngomi\Desktop\Manager_EV_NetCore - Copy\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.dll
+C:\Users\ngomi\Desktop\Manager_EV_NetCore - Copy\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.dll
+C:\Users\ngomi\Desktop\Manager_EV_NetCore - Copy\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Razor.dll
+C:\Users\ngomi\Desktop\Manager_EV_NetCore - Copy\EV.Common\bin\Debug\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
+C:\Users\ngomi\Desktop\Manager_EV_NetCore - Copy\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.dll
+C:\Users\ngomi\Desktop\Manager_EV_NetCore - Copy\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csprojAssemblyReference.cache
+C:\Users\ngomi\Desktop\Manager_EV_NetCore - Copy\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfoInputs.cache
+C:\Users\ngomi\Desktop\Manager_EV_NetCore - Copy\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfo.cs
+C:\Users\ngomi\Desktop\Manager_EV_NetCore - Copy\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CoreCompileInputs.cache
+C:\Users\ngomi\Desktop\Manager_EV_NetCore - Copy\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CopyComplete
+C:\Users\ngomi\Desktop\Manager_EV_NetCore - Copy\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.dll
+C:\Users\ngomi\Desktop\Manager_EV_NetCore - Copy\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.pdb
+D:\web làm\Manager_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.deps.json
+D:\web làm\Manager_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.dll
+D:\web làm\Manager_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.pdb
+D:\web làm\Manager_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Mvc.dll
+D:\web làm\Manager_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.dll
+D:\web làm\Manager_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.dll
+D:\web làm\Manager_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Razor.dll
+D:\web làm\Manager_NetCore\EV.Common\bin\Debug\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
+D:\web làm\Manager_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.dll
+D:\web làm\Manager_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfoInputs.cache
+D:\web làm\Manager_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfo.cs
+D:\web làm\Manager_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CoreCompileInputs.cache
+D:\web làm\Manager_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CopyComplete
+D:\web làm\Manager_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.dll
+D:\web làm\Manager_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.pdb
+C:\Users\ngomi\Desktop\Manager_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.deps.json
+C:\Users\ngomi\Desktop\Manager_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.pdb
+C:\Users\ngomi\Desktop\Manager_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Mvc.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Razor.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\EV.Common\bin\Debug\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfoInputs.cache
+C:\Users\ngomi\Desktop\Manager_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfo.cs
+C:\Users\ngomi\Desktop\Manager_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CoreCompileInputs.cache
+C:\Users\ngomi\Desktop\Manager_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CopyComplete
+C:\Users\ngomi\Desktop\Manager_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.pdb
+D:\web làm\azure\Manager_Netcore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.deps.json
+D:\web làm\azure\Manager_Netcore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.dll
+D:\web làm\azure\Manager_Netcore\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.pdb
+D:\web làm\azure\Manager_Netcore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Mvc.dll
+D:\web làm\azure\Manager_Netcore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.dll
+D:\web làm\azure\Manager_Netcore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.dll
+D:\web làm\azure\Manager_Netcore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Razor.dll
+D:\web làm\azure\Manager_Netcore\EV.Common\bin\Debug\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
+D:\web làm\azure\Manager_Netcore\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.dll
+D:\web làm\azure\Manager_Netcore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csprojAssemblyReference.cache
+D:\web làm\azure\Manager_Netcore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfoInputs.cache
+D:\web làm\azure\Manager_Netcore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfo.cs
+D:\web làm\azure\Manager_Netcore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CoreCompileInputs.cache
+D:\web làm\azure\Manager_Netcore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CopyComplete
+D:\web làm\azure\Manager_Netcore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.dll
+D:\web làm\azure\Manager_Netcore\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.pdb
+D:\EnViet\SourceAzure\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.deps.json
+D:\EnViet\SourceAzure\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.pdb
+D:\EnViet\SourceAzure\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Mvc.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Razor.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfoInputs.cache
+D:\EnViet\SourceAzure\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfo.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CoreCompileInputs.cache
+D:\EnViet\SourceAzure\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CopyComplete
+D:\EnViet\SourceAzure\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.pdb
+E:\Công Việc\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.deps.json
+E:\Công Việc\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.dll
+E:\Công Việc\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.pdb
+E:\Công Việc\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Mvc.dll
+E:\Công Việc\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.dll
+E:\Công Việc\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.dll
+E:\Công Việc\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Razor.dll
+E:\Công Việc\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
+E:\Công Việc\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.dll
+E:\Công Việc\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.AssemblyReference.cache
+E:\Công Việc\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Công Việc\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfoInputs.cache
+E:\Công Việc\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfo.cs
+E:\Công Việc\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CoreCompileInputs.cache
+E:\Công Việc\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CopyComplete
+E:\Công Việc\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.dll
+E:\Công Việc\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.pdb
+D:\azure\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.deps.json
+D:\azure\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.dll
+D:\azure\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.pdb
+D:\azure\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Mvc.dll
+D:\azure\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.dll
+D:\azure\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.dll
+D:\azure\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Razor.dll
+D:\azure\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
+D:\azure\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.dll
+D:\azure\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.AssemblyReference.cache
+D:\azure\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\azure\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfoInputs.cache
+D:\azure\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfo.cs
+D:\azure\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CoreCompileInputs.cache
+D:\azure\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CopyComplete
+D:\azure\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.dll
+D:\azure\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.pdb
+D:\EnViet\Source\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.deps.json
+D:\EnViet\Source\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.dll
+D:\EnViet\Source\sys.airline24h.com\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.pdb
+D:\EnViet\Source\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfoInputs.cache
+D:\EnViet\Source\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfo.cs
+D:\EnViet\Source\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CoreCompileInputs.cache
+D:\EnViet\Source\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.dll
+D:\EnViet\Source\sys.airline24h.com\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.pdb
+D:\EnViet\Source\LuckyDrawApp\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.deps.json
+D:\EnViet\Source\LuckyDrawApp\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.dll
+D:\EnViet\Source\LuckyDrawApp\EV.Common\bin\Debug\netcoreapp2.1\EV.Common.pdb
+D:\EnViet\Source\LuckyDrawApp\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Mvc.dll
+D:\EnViet\Source\LuckyDrawApp\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.dll
+D:\EnViet\Source\LuckyDrawApp\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.dll
+D:\EnViet\Source\LuckyDrawApp\EV.Common\bin\Debug\netcoreapp2.1\System.Web.Razor.dll
+D:\EnViet\Source\LuckyDrawApp\EV.Common\bin\Debug\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
+D:\EnViet\Source\LuckyDrawApp\EV.Common\bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.dll
+D:\EnViet\Source\LuckyDrawApp\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csprojAssemblyReference.cache
+D:\EnViet\Source\LuckyDrawApp\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfoInputs.cache
+D:\EnViet\Source\LuckyDrawApp\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.AssemblyInfo.cs
+D:\EnViet\Source\LuckyDrawApp\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CoreCompileInputs.cache
+D:\EnViet\Source\LuckyDrawApp\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.csproj.CopyComplete
+D:\EnViet\Source\LuckyDrawApp\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.dll
+D:\EnViet\Source\LuckyDrawApp\EV.Common\obj\Debug\netcoreapp2.1\EV.Common.pdb

@@ -1,0 +1,291 @@
+﻿
+<!-- jQuery -->
+<script src="~/vendors/jquery/dist/jquery.min.js"></script>
+
+<script src="~/vendors/ckeditor/ckeditor.js"></script>
+
+<script src="~/js/jquery.dataTables.js"></script>   @*phân trang table đại lý*@
+<!-- Bootstrap -->
+<script src="~/vendors/bootstrap/dist/js/bootstrap.min.js"></script>
+@*<script src="~/vendors/bootstrap/dist/js/bootstrap.bundle.min.js"></script>*@
+
+<script src="~/vendors/bootstrap-wysiwyg/js/bootstrap-wysiwyg.min.js"></script>
+<!-- FastClick -->
+<script src="~/vendors/fastclick/lib/fastclick.js"></script>
+<!-- NProgress -->
+<script src="~/vendors/nprogress/nprogress.js"></script>
+<!-- Chart.js -->
+<script src="~/vendors/Chart.js/dist/Chart.min.js"></script>
+<!-- jQuery Sparklines -->
+<script src="~/vendors/jquery-sparkline/dist/jquery.sparkline.min.js"></script>
+<!-- morris.js -->
+<script src="~/vendors/raphael/raphael.min.js"></script>
+<script src="~/vendors/morris.js/morris.min.js"></script>
+<!-- gauge.js -->
+<script src="~/vendors/gauge.js/dist/gauge.min.js"></script>
+<!-- bootstrap-progressbar -->
+<script src="~/vendors/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
+<!-- Skycons -->
+<script src="~/vendors/skycons/skycons.js"></script>
+<!-- Flot -->
+<script src="~/vendors/jquery.hotkeys/jquery.hotkeys.js"></script>
+<script src="~/vendors/Flot/jquery.flot.js"></script>
+<script src="~/vendors/Flot/jquery.flot.pie.js"></script>
+<script src="~/vendors/Flot/jquery.flot.time.js"></script>
+<script src="~/vendors/Flot/jquery.flot.stack.js"></script>
+<script src="~/vendors/Flot/jquery.flot.resize.js"></script>
+<!-- Flot plugins -->
+<script src="~/vendors/flot.orderbars/js/jquery.flot.orderBars.js"></script>
+<script src="~/vendors/flot-spline/js/jquery.flot.spline.min.js"></script>
+<script src="~/vendors/flot.curvedlines/curvedLines.js"></script>
+<!-- DateJS -->
+<script src="~/vendors/DateJS/build/date.js"></script>
+<!-- bootstrap-daterangepicker -->
+<script src="~/vendors/moment/min/moment.min.js"></script>
+<script src="~/vendors/bootstrap-daterangepicker/daterangepicker.js"></script>
+
+<!-- Custom Theme Scripts -->
+<script src="~/js/custom.min.js"></script>
+<script src="~/vendors/iCheck/icheck.min.js"></script>
+
+<script src="~/vendors/google-code-prettify/src/prettify.js"></script>
+<script src="~/vendors/jquery.tagsinput/src/jquery.tagsinput.js"></script>
+@*<script src="~/vendors/switchery/dist/switchery.min.js"></script>*@
+<script src="~/vendors/switchery/dist/switchery.js"></script>
+<script src="~/vendors/select2/dist/js/select2.full.min.js"></script>
+<script src="~/vendors/parsleyjs/dist/parsley.min.js"></script>
+<script src="~/vendors/autosize/dist/autosize.min.js"></script>
+<script src="~/vendors/devbridge-autocomplete/dist/jquery.autocomplete.min.js"></script>
+<script src="~/vendors/starrr/dist/starrr.js"></script>
+<script src="~/vendors/bootstrap-datetimepicker/src/js/bootstrap-datetimepicker.js"></script>
+
+<script>
+    //$(window).on('load', function (event) {
+    //    $('body').removeClass('preloading');
+    //    $('.load').delay(500).fadeOut('fast');
+    //});
+</script>
+<script>
+    function uploadFile(target) {
+        for (var i = 0; i < target.files.length; i++) {
+            document.getElementById("file-name").value = target.files[i].name;
+        }
+    }
+    function uploadFileImportLuckyDraw(target) {
+        for (var i = 0; i < target.files.length; i++) {
+            document.getElementById("file-name-import").value = target.files[i].name;
+        }
+    }
+    function uploadFileBan_Air(target) {
+        for (var i = 0; i < target.files.length; i++) {
+            document.getElementById("file-nameBan_Air").value = target.files[i].name;
+        }
+    }
+    function uploadFileKM(target) {
+        for (var i = 0; i < target.files.length; i++) {
+            document.getElementById("file-nameKM").value = target.files[i].name;
+        }
+    }
+</script>
+
+<script type="text/javascript">
+    function CheckActiveUser() {
+        var n = document.getElementById("ActiveUser").checked;
+        var z = document.getElementById("ID").value;
+        if (n == true) {
+            $.ajax({
+                type: "POST",
+                url: "/Home/ActiveUser",
+                data: {
+                    Active: 1,
+                    RowID: z
+                },
+                success: function (response) {
+                    document.getElementById("ActiveUser").setAttribute("checked", "checked");
+                    alert("Bạn đã cập nhật thành công");
+                    return;
+                },
+                failure: function (response) {
+                    alert(response.responseText);
+                },
+                error: function (response) {
+                    alert(response.responseText);
+                }
+            });
+        }
+        else {
+            $.ajax({
+                type: "POST",
+                url: "/Home/ActiveUser",
+                data: {
+                    Active: 0,
+                    RowID: z
+                },
+                success: function (response) {
+                    document.getElementById("ActiveUser").removeAttribute("checked");
+                    alert("Bạn đã cập nhật thành công");
+                    return;
+                },
+                failure: function (response) {
+                    alert(response.responseText);
+                },
+                error: function (response) {
+                    alert(response.responseText);
+                }
+            });
+        }
+    }
+    function altRows(id) {
+
+
+        var rows = document.getElementsByClassName(id);
+
+
+
+        for (i = 0; i < rows.length; i++) {
+            if (i % 2 == 0) {
+                rows[i].classList.add("dark_row");
+
+            } else {
+                rows[i].classList.add("light_row");
+
+            }
+        }
+
+    }
+
+    function SideMenuHome(id) {
+
+        var ID = document.getElementById("myModal");
+
+        if (ID != null) {
+
+            var a = function () {
+                $(".right_col").css("min-height", $(window).height());
+                var a = $("body").outerHeight(),
+                    b = $("body").hasClass("footer_fixed") ? -10 : $("footer").height(),
+                    c = $(".left_col").eq(1).height() + $(".sidebar-footer").height(),
+                    d = a < c ? c : a;
+                d -= $(".nav_menu").height() + b, $(".right_col").css("min-height", d)
+            };
+
+            var screen_width = $(window).width();
+            if (screen_width <= 768) {
+                $("body").removeClass("nav-md");
+                $("body").addClass("nav-sm");
+
+                ($("#sidebar-menu").find("li").removeClass("active active-sm"), $("#sidebar-menu").find("li ul").slideUp());
+            }
+
+            a();
+
+            if (typeof (Storage) !== 'undefined') {
+                if ($("body").hasClass("nav-md")) {
+                    sessionStorage.setItem('resize-menu', "nav-md");
+                }
+                else {
+                    sessionStorage.setItem('resize-menu', "nav-sm");
+                }
+
+            }
+        }
+    }
+
+
+
+
+    function ResizeImage(id) {
+
+
+        var ID = document.getElementById(id);
+
+        if (ID != null) {
+
+            var a = function () {
+                $(".right_col").css("min-height", $(window).height());
+                var a = $("body").outerHeight(),
+                    b = $("body").hasClass("footer_fixed") ? -10 : $("footer").height(),
+                    c = $(".left_col").eq(1).height() + $(".sidebar-footer").height(),
+                    d = a < c ? c : a;
+                d -= $(".nav_menu").height() + b, $(".right_col").css("min-height", d)
+            };
+            if (sessionStorage.getItem('resize-menu') == "nav-sm") {
+                var screen_width = $(window).width();
+                if (screen_width <= 768) {
+                    $("body").removeClass("nav-md");
+                    $("body").addClass("nav-sm");
+
+                    ($("#sidebar-menu").find("li").removeClass("active active-sm"), $("#sidebar-menu").find("li ul").slideUp());
+                }
+            }
+            a();
+
+
+
+            var rows = ID.getElementsByTagName("img");
+            if (rows != null) {
+                for (i = 0; i < rows.length; i++) {
+                    if (sessionStorage.getItem("resize-menu") == "nav-sm") {
+                        rows[i].classList.add("ResizeImage2");
+                    }
+                    else {
+
+                        rows[i].classList.add("ResizeImage");
+                    }
+
+                }
+
+            }
+            var rows_table = ID.getElementsByTagName("table");
+            if (rows_table != null) {
+                var html_header = `<div id="resize_table" class="row"><div class="x_panel">
+                              <div class="x_content">  <div class="table-responsive">     <table class="table table-striped jambo_table bulk_action">`;
+                var html_footer = `</table></div> </div>  </div>  </div>`;
+                for (i = 0; i < rows_table.length; i++) {
+                    rows_table[i].classList.add("MsoNormalTable");
+                    var content = rows_table[i].innerHTML;
+                    var html_content = html_header + content + html_footer;
+
+                }
+
+                document.querySelector('.MsoNormalTable').insertAdjacentHTML(
+                    'beforebegin',
+                    html_content
+                )
+
+                var element = document.getElementById("resize_image");
+                element.classList.remove("resize");
+
+
+                $('.MsoNormalTable').remove();
+
+
+
+
+
+
+
+            }
+
+        }
+
+
+
+    }
+    window.onload = function () {
+        SideMenuHome();
+        $('#myModal').modal('show');
+        $('#myPopupHoanVe').modal('show');
+
+        altRows('change_color');
+        ResizeImage('resize_image');
+
+
+    }
+
+</script>
+
+
+
+
+

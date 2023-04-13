@@ -1,0 +1,667 @@
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.csproj.CoreCompileInputs.cache
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorAssemblyInfo.cache
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorAssemblyInfo.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.AssemblyInfoInputs.cache
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.AssemblyInfo.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.deps.json
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.runtimeconfig.json
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.runtimeconfig.dev.json
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.dll
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.pdb
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\refs\System.Text.Encoding.CodePages.dll
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.Views.dll
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.Views.pdb
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\Antlr3.Runtime.dll
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\csc.exe
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\csi.exe
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLyEV.dll
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\PagedList.dll
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\PagedList.Mvc.dll
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.Helpers.dll
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.Mvc.dll
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.Optimization.dll
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.Razor.dll
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.dll
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.WebPages.dll
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.dll
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\vbc.exe
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\VBCSCompiler.exe
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\WebGrease.dll
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\Antlr3.Runtime.pdb
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\csc.exe.config
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\csi.exe.config
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLyEV.pdb
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLyEV.dll.config
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\PagedList.xml
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\PagedList.Mvc.xml
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.Helpers.xml
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.Mvc.xml
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.Optimization.xml
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.Razor.xml
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.WebPages.xml
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.xml
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.xml
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\vbc.exe.config
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\bin\Debug\netcoreapp2.1\VBCSCompiler.exe.config
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.TagHelpers.input.cache
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.TagHelpers.output.cache
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorCoreGenerate.cache
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\CongNo\Index.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DangKyMoi.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DanhSachDangKy.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\BSP.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\DanhSach.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\PhiDV.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\VNA.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\DanhSachYeuCau.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauBSP.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauHoanBSP.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauHoanVNA.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauJT.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauVJ.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauVNA.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\DanhSachHoanVe.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\DieuKienHoanVe.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\GuiYeuCauHoanVe.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\PopupHoanVe.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\ContentDetail.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\Popup.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\ThongBao.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\PhanHoi\GuiPhanHoi.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Pager\Bootstrap3.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MasterLayout.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Footer.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Header.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Info.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Scripts.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideFooter.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideMenu.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideProfile.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTin\Abacus.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTin\NghiepVuVe.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTin\ThuVienPhanMem.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\YeuCauVe\DanhSachYeuCau.g.cshtml.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorTargetAssemblyInfo.cache
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorTargetAssemblyInfo.cs
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.Views.pdb
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.csproj.CopyComplete
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.dll
+C:\Users\MinhTien\Documents\Visual Studio 2017\Projects\DaiLy_EV\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.pdb
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.deps.json
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.runtimeconfig.json
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.runtimeconfig.dev.json
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.dll
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.pdb
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\refs\System.IO.Pipes.AccessControl.dll
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\refs\System.Text.Encoding.CodePages.dll
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.Views.dll
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.Views.pdb
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.csproj.CoreCompileInputs.cache
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorAssemblyInfo.cache
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorAssemblyInfo.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.AssemblyInfoInputs.cache
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.AssemblyInfo.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.TagHelpers.input.cache
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.TagHelpers.output.cache
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorCoreGenerate.cache
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\CongNo\Index.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DangKyMoi.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DanhSachDangKy.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\BSP.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\DanhSach.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\PhiDV.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\VNA.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\DanhSachYeuCau.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauBSP.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauHoanBSP.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauHoanVNA.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauJT.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauVJ.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauVNA.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\DanhSachHoanVe.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\DieuKienHoanVe.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\GuiYeuCauHoanVe.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\PopupHoanVe.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\ContentDetail.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\Popup.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\ThongBao.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\PhanHoi\GuiPhanHoi.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Pager\Bootstrap3.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MasterLayout.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Footer.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Header.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Info.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Scripts.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideFooter.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideMenu.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideProfile.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTin\Abacus.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTin\NghiepVuVe.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTin\ThuVienPhanMem.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\YeuCauVe\DanhSachYeuCau.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorTargetAssemblyInfo.cache
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorTargetAssemblyInfo.cs
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.Views.pdb
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.csproj.CopyComplete
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.dll
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.pdb
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\Antlr3.Runtime.dll
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\csc.exe
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\csi.exe
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\Microsoft.ApplicationBlocks.Data.dll
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.Scripting.dll
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.Helpers.dll
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.Mvc.dll
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.Optimization.dll
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.Razor.dll
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.dll
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.WebPages.dll
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.dll
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\TangDuLieu.dll
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\vbc.exe
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\VBCSCompiler.exe
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\WebGrease.dll
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\Antlr3.Runtime.pdb
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\csc.exe.config
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\csi.exe.config
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.Helpers.xml
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.Mvc.xml
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.Optimization.xml
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.Razor.xml
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.WebPages.xml
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.xml
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.xml
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\TangDuLieu.pdb
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\vbc.exe.config
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\VBCSCompiler.exe.config
+D:\Én Viẹt\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.csprojAssemblyReference.cache
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.csprojAssemblyReference.cache
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.csproj.CoreCompileInputs.cache
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorAssemblyInfo.cache
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorAssemblyInfo.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.AssemblyInfoInputs.cache
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.AssemblyInfo.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.dll
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.pdb
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.deps.json
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.runtimeconfig.json
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.runtimeconfig.dev.json
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.dll
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.pdb
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\refs\System.IO.Pipes.AccessControl.dll
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\refs\System.Text.Encoding.CodePages.dll
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.Views.dll
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.Views.pdb
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\Antlr3.Runtime.dll
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\csc.exe
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\csi.exe
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\Microsoft.ApplicationBlocks.Data.dll
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.Scripting.dll
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.Helpers.dll
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.Mvc.dll
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.Optimization.dll
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.Razor.dll
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.dll
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.WebPages.dll
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.dll
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\vbc.exe
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\VBCSCompiler.exe
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\WebGrease.dll
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\Antlr3.Runtime.pdb
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\csc.exe.config
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\csi.exe.config
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.Helpers.xml
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.Mvc.xml
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.Optimization.xml
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.Razor.xml
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.WebPages.xml
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.xml
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.xml
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\TangDuLieu.pdb
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\vbc.exe.config
+E:\DaiLy_EV_NetCore123\DaiLy_EV\bin\Debug\netcoreapp2.1\VBCSCompiler.exe.config
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.TagHelpers.input.cache
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.TagHelpers.output.cache
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorCoreGenerate.cache
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\CongNo\Index.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DangKyMoi.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DanhSachDangKy.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\BSP.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\DanhSach.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\PhiDV.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\VNA.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\DanhSachYeuCau.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauBSP.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauHoanBSP.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauHoanVNA.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauJT.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauVJ.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauVNA.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\DanhSachHoanVe.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\DieuKienHoanVe.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\GuiYeuCauHoanVe.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\PopupHoanVe.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\ContentDetail.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\Popup.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\ThongBao.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\PhanHoi\GuiPhanHoi.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Pager\Bootstrap3.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MasterLayout.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Footer.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Header.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Info.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Scripts.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideFooter.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideMenu.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideProfile.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTin\Abacus.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTin\NghiepVuVe.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTin\ThuVienPhanMem.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\YeuCauVe\DanhSachYeuCau.g.cshtml.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorTargetAssemblyInfo.cache
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorTargetAssemblyInfo.cs
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.Views.pdb
+E:\DaiLy_EV_NetCore123\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.csproj.CopyComplete
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.deps.json
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.runtimeconfig.json
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.runtimeconfig.dev.json
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.dll
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.pdb
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.Views.dll
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.Views.pdb
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\bin\Debug\netcoreapp2.1\System.IO.Pipes.AccessControl.dll
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Text.Encoding.CodePages.dll
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\bin\Debug\netcoreapp2.1\vbc.exe
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\bin\Debug\netcoreapp2.1\VBCSCompiler.exe
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\bin\Debug\netcoreapp2.1\WebGrease.dll
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\bin\Debug\netcoreapp2.1\TangDuLieu.pdb
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\bin\Debug\netcoreapp2.1\vbc.exe.config
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\bin\Debug\netcoreapp2.1\VBCSCompiler.exe.config
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.csprojAssemblyReference.cache
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorAssemblyInfo.cache
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorAssemblyInfo.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.AssemblyInfoInputs.cache
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.AssemblyInfo.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.TagHelpers.input.cache
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.TagHelpers.output.cache
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorCoreGenerate.cache
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\CongNo\TraCuu.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DangKyMoi.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DanhSachDangKy.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\BSP.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\DanhSach.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\PhiDV.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\VNA.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\DanhSachYeuCau.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauBSP.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauHoanBSP.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauHoanVNA.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauJT.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauVJ.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauVNA.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\DanhSachHoanVe.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\DieuKienHoanVe.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\GuiYeuCauHoanVe.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\PopupHoanVe.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\ContentDetail.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\Popup.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\ThongBao.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\PhanHoi\GuiPhanHoi.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Pager\Bootstrap3.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MasterLayout.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Header.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Info.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Scripts.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideFooter.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideMenu.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideProfile.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTin\Abacus.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTin\NghiepVuVe.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTin\ThuVienPhanMem.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\YeuCauVe\DanhSachYeuCau.cshtml.g.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorTargetAssemblyInfo.cache
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorTargetAssemblyInfo.cs
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.Views.pdb
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.csproj.CopyComplete
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.dll
+D:\Private\EV\newdaily.airline24h.com\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.pdb
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\bin\Debug\netcoreapp2.1\appsettings.Development.json
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\bin\Debug\netcoreapp2.1\appsettings.json
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.deps.json
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.runtimeconfig.json
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.runtimeconfig.dev.json
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.dll
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.pdb
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.Views.dll
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.Views.pdb
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\bin\Debug\netcoreapp2.1\System.IO.Pipes.AccessControl.dll
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Text.Encoding.CodePages.dll
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\bin\Debug\netcoreapp2.1\vbc.exe
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\bin\Debug\netcoreapp2.1\VBCSCompiler.exe
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\bin\Debug\netcoreapp2.1\WebGrease.dll
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\bin\Debug\netcoreapp2.1\TangDuLieu.pdb
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\bin\Debug\netcoreapp2.1\vbc.exe.config
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\bin\Debug\netcoreapp2.1\VBCSCompiler.exe.config
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.csprojAssemblyReference.cache
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorAssemblyInfo.cache
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorAssemblyInfo.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.AssemblyInfoInputs.cache
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.AssemblyInfo.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.TagHelpers.input.cache
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.TagHelpers.output.cache
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorCoreGenerate.cache
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\CongNo\TraCuu.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DangKyMoi.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DanhSachDangKy.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\BSP.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\DanhSach.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\PhiDV.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\VNA.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\DanhSachYeuCau.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauBSP.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauHoanBSP.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauHoanVNA.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauJT.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauVJ.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauVNA.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\DanhSachHoanVe.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\DieuKienHoanVe.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\GuiYeuCauHoanVe.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\PopupHoanVe.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\ContentDetail.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\Popup.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\ThongBao.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\PhanHoi\GuiPhanHoi.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Pager\Bootstrap3.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MasterLayout.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Header.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Info.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Scripts.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideFooter.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideMenu.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideProfile.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTin\Abacus.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTin\NghiepVuVe.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTin\ThuVienPhanMem.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\YeuCauVe\DanhSachYeuCau.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorTargetAssemblyInfo.cache
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorTargetAssemblyInfo.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.Views.pdb
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.csproj.CopyComplete
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.dll
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.pdb
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.csprojAssemblyReference.cache
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorAssemblyInfo.cache
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorAssemblyInfo.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.AssemblyInfoInputs.cache
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.AssemblyInfo.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.dll
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.pdb
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\appsettings.Development.json
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\appsettings.json
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.deps.json
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.runtimeconfig.json
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.runtimeconfig.dev.json
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.dll
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.pdb
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.Views.dll
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.Views.pdb
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\System.IO.Pipes.AccessControl.dll
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\vbc.exe
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\VBCSCompiler.exe
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\WebGrease.dll
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\TangDuLieu.pdb
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\vbc.exe.config
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\VBCSCompiler.exe.config
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.TagHelpers.input.cache
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.TagHelpers.output.cache
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorCoreGenerate.cache
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\CongNo\TraCuu.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DangKyMoi.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DanhSachDangKy.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DanhSachPhone.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DanhSachSkype.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DanhSachZalo.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\BSP.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\DanhSach.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\PhiDV.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\VNA.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\DanhSachYeuCau.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauBSP.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauHoanBSP.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauHoanVNA.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauJT.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauVJ.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauVNA.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\DanhSachHoanVe.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\DieuKienHoanVe.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\GuiYeuCauHoanVe.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\PopupHoanVe.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\ContentDetail.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\Popup.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\ThongBao.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\PhanHoi\GuiPhanHoi.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Pager\Bootstrap3.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MasterLayout.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Header.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Info.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Scripts.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideFooter.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideMenu.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideProfile.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTin\Abacus.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTin\NghiepVuVe.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTin\ThuVienPhanMem.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\YeuCauVe\DanhSachYeuCau.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorTargetAssemblyInfo.cache
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorTargetAssemblyInfo.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.Views.pdb
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.csproj.CopyComplete
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\EV.Common.dll
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\EV.Common.pdb
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MasterLayout2.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\bin\Debug\netcoreapp2.1\EV.Common.dll
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\bin\Debug\netcoreapp2.1\EV.Common.pdb
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DanhSachPhone.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DanhSachSkype.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DanhSachZalo.cshtml.g.cs
+W:\Relocate\EV\newdaily.netcore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MasterLayout2.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTinDaiLy\DoiMatKhau.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTinDaiLy\ThongTinCaNhan.cshtml.g.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.deps.json
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.runtimeconfig.json
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.runtimeconfig.dev.json
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.dll
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.pdb
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.Views.dll
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.Views.pdb
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\bin\Debug\netcoreapp2.1\EV.Common.dll
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\bin\Debug\netcoreapp2.1\System.IO.Pipes.AccessControl.dll
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\bin\Debug\netcoreapp2.1\System.Text.Encoding.CodePages.dll
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\bin\Debug\netcoreapp2.1\vbc.exe
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\bin\Debug\netcoreapp2.1\VBCSCompiler.exe
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\bin\Debug\netcoreapp2.1\WebGrease.dll
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\bin\Debug\netcoreapp2.1\EV.Common.pdb
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\bin\Debug\netcoreapp2.1\TangDuLieu.pdb
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\bin\Debug\netcoreapp2.1\vbc.exe.config
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\bin\Debug\netcoreapp2.1\VBCSCompiler.exe.config
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.csprojAssemblyReference.cache
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.csproj.CoreCompileInputs.cache
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorAssemblyInfo.cache
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorAssemblyInfo.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.AssemblyInfoInputs.cache
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.AssemblyInfo.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.TagHelpers.input.cache
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.TagHelpers.output.cache
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorCoreGenerate.cache
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\CongNo\TraCuu.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DangKyMoi.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DanhSachDangKy.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DanhSachPhone.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DanhSachSkype.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DanhSachZalo.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\BSP.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\DanhSach.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\PhiDV.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\VNA.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\DanhSachYeuCau.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauBSP.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauHoanBSP.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauHoanVNA.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauJT.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauVJ.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauVNA.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\DanhSachHoanVe.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\DieuKienHoanVe.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\GuiYeuCauHoanVe.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\PopupHoanVe.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\ContentDetail.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\Popup.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\ThongBao.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\PhanHoi\GuiPhanHoi.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Pager\Bootstrap3.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MasterLayout.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MasterLayout2.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Footer.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Header.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Info.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Scripts.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideFooter.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideMenu.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideProfile.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTinDaiLy\DoiMatKhau.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTinDaiLy\ThongTinCaNhan.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTin\Abacus.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTin\NghiepVuVe.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTin\ThuVienPhanMem.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\YeuCauVe\DanhSachYeuCau.g.cshtml.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorTargetAssemblyInfo.cache
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorTargetAssemblyInfo.cs
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.Views.pdb
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.csproj.CopyComplete
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.dll
+D:\Én Viẹt\DaiLy_EV_NetCoreTemp\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.pdb
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\ThongTinVe.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Zalo\CongNo.cshtml.g.cs
+M:\VDT\Work\newdaily_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Zalo\LinkZaloAccount.cshtml.g.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.deps.json
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.runtimeconfig.json
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.runtimeconfig.dev.json
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.dll
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.pdb
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.Views.dll
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\DaiLy_EV.Views.pdb
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\EV.Common.dll
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\System.IO.Pipes.AccessControl.dll
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\vbc.exe
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\VBCSCompiler.exe
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\WebGrease.dll
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\EV.Common.pdb
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\vbc.exe.config
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\bin\Debug\netcoreapp2.1\VBCSCompiler.exe.config
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.csprojAssemblyReference.cache
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.csproj.CoreCompileInputs.cache
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorAssemblyInfo.cache
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorAssemblyInfo.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.AssemblyInfoInputs.cache
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.AssemblyInfo.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.TagHelpers.input.cache
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.TagHelpers.output.cache
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorCoreGenerate.cache
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\CongNo\TraCuu.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DangKyMoi.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DanhSachDangKy.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DanhSachPhone.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DanhSachSkype.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\DangKy\DanhSachZalo.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\BSP.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\DanhSach.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\PhiDV.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\Xuat\VNA.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\DanhSachYeuCau.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauBSP.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauHoanBSP.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauHoanVNA.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauJT.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauVJ.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoaDon\YeuCau\YeuCauVNA.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\DanhSachHoanVe.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\DieuKienHoanVe.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\GuiYeuCauHoanVe.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\PopupHoanVe.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\HoanVe\ThongTinVe.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\ContentDetail.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\Popup.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Home\ThongBao.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\PhanHoi\GuiPhanHoi.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Pager\Bootstrap3.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MasterLayout.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MasterLayout2.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Footer.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Header.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Info.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Scripts.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideFooter.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideMenu.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SideProfile.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTinDaiLy\DoiMatKhau.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTinDaiLy\ThongTinCaNhan.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTin\Abacus.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTin\NghiepVuVe.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\ThongTin\ThuVienPhanMem.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\YeuCauVe\DanhSachYeuCau.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Zalo\CongNo.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Zalo\CongVanChinhSach.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Zalo\DanhSachHoan.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Zalo\DieuKienHoan.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Zalo\GuiHoanVe.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Zalo\LinkZaloAccount.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Zalo\ThongBao.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\Razor\Views\Zalo\ViewContent.g.cshtml.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorTargetAssemblyInfo.cache
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.RazorTargetAssemblyInfo.cs
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.Views.pdb
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.csproj.CopyComplete
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.dll
+D:\Én Viẹt\Source\DaiLy_EV_NetCore\DaiLy_EV\obj\Debug\netcoreapp2.1\DaiLy_EV.pdb

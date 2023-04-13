@@ -1,0 +1,1236 @@
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\appsettings.Development.json
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\appsettings.json
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.deps.json
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.runtimeconfig.json
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.runtimeconfig.dev.json
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.pdb
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\DaiLy_EV.xml
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.Views.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.Views.pdb
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Antlr3.Runtime.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\csc.exe
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\csi.exe
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\EasyInvoice.Client.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\EasyInvoice.Json.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\EV.Common.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.ApplicationBlocks.Data.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.CodeAnalysis.Scripting.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\System.IO.Pipes.AccessControl.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.Helpers.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.Mvc.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.Optimization.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.Razor.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.WebPages.Deployment.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.WebPages.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.WebPages.Razor.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\TangDuLieu.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\vbc.exe
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\VBCSCompiler.exe
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\EV.Common.pdb
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\vbc.exe.config
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\VBCSCompiler.exe.config
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.csprojAssemblyReference.cache
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.AssemblyInfoInputs.cache
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.AssemblyInfo.cs
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.csproj.CoreCompileInputs.cache
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorAssemblyInfo.cache
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorAssemblyInfo.cs
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.TagHelpers.input.cache
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.TagHelpers.output.cache
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorCoreGenerate.cache
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\ThongTinDaiLy.cshtml.g.cs
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\Phieubaolanh.cshtml.g.cs
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Login\Index1.cshtml.g.cs
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Member\MemberList.cshtml.g.cs
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\Menu.cshtml.g.cs
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\Components\Pager\Bootstrap3.cshtml.g.cs
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\MasterLayout.cshtml.g.cs
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Header.cshtml.g.cs
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Info.cshtml.g.cs
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Scripts.cshtml.g.cs
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_SideFooter.cshtml.g.cs
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_SideMenu.cshtml.g.cs
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_SideProfile.cshtml.g.cs
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorTargetAssemblyInfo.cache
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorTargetAssemblyInfo.cs
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.Views.pdb
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.csproj.CopyComplete
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.dll
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.pdb
+D:\EnViet\SourceGit\Manager_EnViet_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.genruntimeconfig.cache
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.deps.json
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.runtimeconfig.json
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.runtimeconfig.dev.json
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.pdb
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\DaiLy_EV.xml
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.Views.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.Views.pdb
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Antlr3.Runtime.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\csc.exe
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\csi.exe
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\EasyInvoice.Client.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\EasyInvoice.Json.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\EV.Common.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\System.IO.Pipes.AccessControl.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.Helpers.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.Mvc.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.Optimization.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.Razor.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.WebPages.Deployment.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.WebPages.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.WebPages.Razor.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\TangDuLieu.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\vbc.exe
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\VBCSCompiler.exe
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\EV.Common.pdb
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\vbc.exe.config
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\bin\Release\netcoreapp2.1\VBCSCompiler.exe.config
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.csprojAssemblyReference.cache
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.AssemblyInfoInputs.cache
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.AssemblyInfo.cs
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.csproj.CoreCompileInputs.cache
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorAssemblyInfo.cache
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorAssemblyInfo.cs
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.TagHelpers.input.cache
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.TagHelpers.output.cache
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorCoreGenerate.cache
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\ThongTinDaiLy.cshtml.g.cs
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\Phieubaolanh.cshtml.g.cs
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Login\Index1.cshtml.g.cs
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Member\MemberList.cshtml.g.cs
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\Components\Pager\Bootstrap3.cshtml.g.cs
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\MasterLayout.cshtml.g.cs
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Info.cshtml.g.cs
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Scripts.cshtml.g.cs
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_SideFooter.cshtml.g.cs
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_SideMenu.cshtml.g.cs
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_SideProfile.cshtml.g.cs
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorTargetAssemblyInfo.cache
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorTargetAssemblyInfo.cs
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.Views.pdb
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.csproj.CopyComplete
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.dll
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.pdb
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.genruntimeconfig.cache
+C:\Users\ngomi\Desktop\Manager_NetCore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\Index.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\appsettings.Development.json
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\appsettings.json
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.deps.json
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.runtimeconfig.json
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.runtimeconfig.dev.json
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.dll
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.pdb
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\DaiLy_EV.xml
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.Views.dll
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.Views.pdb
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\Antlr3.Runtime.dll
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\csc.exe
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\csi.exe
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\EasyInvoice.Client.dll
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\EasyInvoice.Json.dll
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\EV.Common.dll
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.ApplicationBlocks.Data.dll
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.CodeAnalysis.Scripting.dll
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\System.IO.Pipes.AccessControl.dll
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.Helpers.dll
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.Mvc.dll
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.Optimization.dll
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.Razor.dll
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.WebPages.Deployment.dll
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.WebPages.dll
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.WebPages.Razor.dll
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\TangDuLieu.dll
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\vbc.exe
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\VBCSCompiler.exe
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\EV.Common.pdb
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\vbc.exe.config
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\bin\Release\netcoreapp2.1\VBCSCompiler.exe.config
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.csprojAssemblyReference.cache
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.AssemblyInfoInputs.cache
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.AssemblyInfo.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.csproj.CoreCompileInputs.cache
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorAssemblyInfo.cache
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorAssemblyInfo.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.TagHelpers.input.cache
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.TagHelpers.output.cache
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorCoreGenerate.cache
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\ThongTinDaiLy.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\Phieubaolanh.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Login\Index1.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Member\MemberList.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\Index.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Setting\profile.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\Components\Pager\Bootstrap3.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\MasterLayout.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Header.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Info.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Scripts.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_SideFooter.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_SideMenu.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_SideProfile.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorTargetAssemblyInfo.cache
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorTargetAssemblyInfo.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.Views.pdb
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.csproj.CopyComplete
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.dll
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.pdb
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.genruntimeconfig.cache
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\TraCuuCongVan.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\TraCuuDaiLy.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\TraCuuHopDong.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Noibo\DetailNews.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Noibo\kyniem.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Noibo\News.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\DetailNews.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\News.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\web làm\azure\Manager_Netcore\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\YenSao\YenSao.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\appsettings.Development.json
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\appsettings.json
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\icudt49.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\icuin49.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\icuuc49.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qdds.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qgif.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qicns.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qico.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qjp2.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qjpeg.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qmng.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qsvg.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qtga.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qtiff.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qwbmp.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qwebp.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\libEGL.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\libGLESv2.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\platforms\qminimal.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\platforms\qoffscreen.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\platforms\qwindows.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Core.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Gui.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Multimedia.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5MultimediaWidgets.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Network.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5OpenGL.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Positioning.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5PrintSupport.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Qml.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Quick.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Sensors.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Sql.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Svg.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5WebChannel.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5WebKit.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5WebKitWidgets.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Widgets.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Syncfusion.WebKitWrapper
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\zlib1.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqdds.so
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqgif.so
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqicns.so
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqico.so
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqjp2.so
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqjpeg.so
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqmng.so
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqsvg.so
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqtga.so
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqtiff.so
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqwbmp.so
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqwebp.so
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libGL.so.1
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libicudata.so.55
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libicui18n.so.55
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libicuuc.so.55
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libjpeg.so.8
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libpng12.so.0
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Core.so.5
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5DBus.so.5
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Gui.so.5
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Multimedia.so.5
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5MultimediaWidgets.so.5
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Network.so.5
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5OpenGL.so.5
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Positioning.so.5
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5PrintSupport.so.5
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Qml.so.5
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Quick.so.5
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Sensors.so.5
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Sql.so.5
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Svg.so.5
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5WebChannel.so.5
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5WebKit.so.5
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5WebKitWidgets.so.5
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Widgets.so.5
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5XcbQpa.so.5
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libsqlite3.so.0
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libstdc++.so.6
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\platforms\libqminimal.so
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\platforms\libqoffscreen.so
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\platforms\libqxcb.so
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\Syncfusion.WebKitWrapper
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqdds.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqgif.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqicns.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqico.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqjp2.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqjpeg.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqmng.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqsvg.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqtga.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqtiff.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqwbmp.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqwebp.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libcrypto.1.0.0.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Core.5.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5DBus.5.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Gui.5.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Multimedia.5.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5MultimediaWidgets.5.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Network.5.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5OpenGL.5.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Positioning.5.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5PrintSupport.5.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Qml.5.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Quick.5.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Sensors.5.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Sql.5.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Svg.5.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5WebChannel.5.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5WebKit.5.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5WebKitWidgets.5.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Widgets.5.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libssl.1.0.0.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\platforms\libqcocoa.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\platforms\libqminimal.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\platforms\libqoffscreen.dylib
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\Syncfusion.WebKitWrapper
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.deps.json
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.runtimeconfig.json
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.runtimeconfig.dev.json
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.pdb
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\DaiLy_EV.xml
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.Views.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.Views.pdb
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Antlr3.Runtime.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\csc.exe
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\csi.exe
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\EasyInvoice.Client.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\EasyInvoice.Json.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\EV.Common.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.ApplicationBlocks.Data.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.CodeAnalysis.Scripting.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\System.IO.Pipes.AccessControl.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.Helpers.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.Mvc.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.Optimization.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.Razor.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.WebPages.Deployment.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.WebPages.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.WebPages.Razor.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\TangDuLieu.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\vbc.exe
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\VBCSCompiler.exe
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\EV.Common.pdb
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\vbc.exe.config
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\VBCSCompiler.exe.config
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.csprojAssemblyReference.cache
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.AssemblyInfoInputs.cache
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.AssemblyInfo.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.csproj.CoreCompileInputs.cache
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorAssemblyInfo.cache
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorAssemblyInfo.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.TagHelpers.input.cache
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.TagHelpers.output.cache
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorCoreGenerate.cache
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Content\ViewContent.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\AllCongVan.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\BambooAirway.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\CapNhatMaKH.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\CongVan.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\CongVanEVC.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\DetailQuyDinhHang.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\KhuyenMai.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\OtherAir.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\ThongTinDaiLy.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\ThongTinVe.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\TraCuuChuyenKhoan.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\TraCuuSignIn.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\TraCuuSoVe.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\TraCuuVeHoan.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\Vietjet.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\VietnamAirlines.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\VietravelAirlines.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CongViec.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\ContentNews.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateContentNews.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateMenuChild.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateMenuParent.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateNhomDL.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\DSCongViec.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditContentNews.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditMenuChild.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditMenuParent.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditNhomDL.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\MenuNews.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\NhomKH.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\TraCuuCongVan.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\TraCuuDaiLy.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Hang\SoDuHang.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\BaoCaoSMS.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\ChiTietCongNoInPdf.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\CongNo.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\CongNoDaiLy.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\ImportDoanhSo.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\Index_KT.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\KhoaCodeDaiLy.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\Phieubaolanh.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\TraCuuDoanhSo.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KhachHang\ChiTietKhachHang.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KhachHang\EditKhachHang.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KhachHang\KhachHangVip.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KhachHang\NhomDL.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\Chart.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\DaiLy.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\DanhSachGuiMailKinhDoanh.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\DetailNews.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\DoanhSoDaiLy.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\GuiMailDaiLy_KD.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\Index_KD.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\News.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\NoiDungMailKinhDoanh.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\ThongTinCodeSignIn.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\ThongTinDoanhSo.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\Tieude.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\TraCuuHopDong.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Login\Index1.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Member\MemberList.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\ChinhSachDB.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\ChinhSachQN.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\ChinhSachQT.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\CSKH.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\Index.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\NghiepVu.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\ThongBao.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\TinhNangMoi.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Noibo\DetailNews.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Noibo\kyniem.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Noibo\LichLamViec.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Noibo\News.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\BaoCaoVeSot.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\ChiTietNoiDungXuatDoi.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\ChiTietVeHoan.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\DanhSachGuiMailDaiLy.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\DanhSachTongGuiMailDaiLy.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\DetailNews.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\GuiMailDaiLy.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\HoanVe.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\Index_BK.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\News.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\VeSot.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Setting\CapNhatCauHinh.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Setting\CongViec.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Setting\profile.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\Components\Pager\Bootstrap3.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\MasterLayout.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\MasterLayoutChiTietCongNo.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\MasterLayout_ThongBao.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_ContentFixed.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Header.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Info.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Scripts.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_SideFooter.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_SideMenu.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_SideProfile.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\ThongBao\ChiTietThongBao.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\ThongBao\ThongBao.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorTargetAssemblyInfo.cache
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorTargetAssemblyInfo.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.Views.pdb
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.csproj.CopyComplete
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.dll
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.pdb
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.genruntimeconfig.cache
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateDichVu.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateSanPham.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\DichVu.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditDichVu.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditSanPham.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\SanPham.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\SanPhamChild.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\DanhSach.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\MasterLayoutHoaDon.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\nlog.config
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\BaoCaoVe\BaoCaoVeSot.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\BaoCaoVe\IndexBaoCaoVe.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateDichVuChild.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateSanPhamChild.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateThongBao.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\DichVuChild.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditDichVuChild.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditSanPhamChild.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditThongBao.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\ThongBao.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\DDBL\CreateDDBL.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\DDBL\EditDDBL.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\DDBL\QuanlyDDBL.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\DDBL\ViewDetailDDBL.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Home\StickNote.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\UpdateNgayChungTu.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\Chitietbooking.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\Chitietyeucaubooking.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\CreateFlight.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\DanhSachBooking.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\DanhSachYeuCauBooking.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\DoanhSoHang.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\Flight.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\PopupDoanhSoHang.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\UpdateFlight.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\DanhSachGuiMailHang.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\GuiMailHang.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\NoiDungMailHang.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\BPDoan\Index_DOAN.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\appsettings.Development.json
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\appsettings.json
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\icudt49.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\icuin49.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\icuuc49.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qdds.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qgif.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qicns.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qico.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qjp2.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qjpeg.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qmng.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qsvg.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qtga.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qtiff.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qwbmp.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qwebp.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\libEGL.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\libGLESv2.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\platforms\qminimal.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\platforms\qoffscreen.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\platforms\qwindows.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Core.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Gui.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Multimedia.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5MultimediaWidgets.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Network.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5OpenGL.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Positioning.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5PrintSupport.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Qml.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Quick.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Sensors.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Sql.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Svg.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5WebChannel.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5WebKit.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5WebKitWidgets.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Widgets.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Syncfusion.WebKitWrapper
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\zlib1.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqdds.so
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqgif.so
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqicns.so
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqico.so
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqjp2.so
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqjpeg.so
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqmng.so
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqsvg.so
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqtga.so
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqtiff.so
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqwbmp.so
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqwebp.so
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libGL.so.1
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libicudata.so.55
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libicui18n.so.55
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libicuuc.so.55
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libjpeg.so.8
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libpng12.so.0
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Core.so.5
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5DBus.so.5
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Gui.so.5
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Multimedia.so.5
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5MultimediaWidgets.so.5
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Network.so.5
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5OpenGL.so.5
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Positioning.so.5
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5PrintSupport.so.5
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Qml.so.5
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Quick.so.5
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Sensors.so.5
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Sql.so.5
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Svg.so.5
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5WebChannel.so.5
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5WebKit.so.5
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5WebKitWidgets.so.5
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Widgets.so.5
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5XcbQpa.so.5
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libsqlite3.so.0
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libstdc++.so.6
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\platforms\libqminimal.so
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\platforms\libqoffscreen.so
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\platforms\libqxcb.so
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\Syncfusion.WebKitWrapper
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqdds.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqgif.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqicns.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqico.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqjp2.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqjpeg.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqmng.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqsvg.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqtga.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqtiff.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqwbmp.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqwebp.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libcrypto.1.0.0.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Core.5.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5DBus.5.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Gui.5.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Multimedia.5.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5MultimediaWidgets.5.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Network.5.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5OpenGL.5.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Positioning.5.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5PrintSupport.5.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Qml.5.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Quick.5.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Sensors.5.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Sql.5.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Svg.5.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5WebChannel.5.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5WebKit.5.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5WebKitWidgets.5.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Widgets.5.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libssl.1.0.0.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\platforms\libqcocoa.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\platforms\libqminimal.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\platforms\libqoffscreen.dylib
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\Syncfusion.WebKitWrapper
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\nlog.config
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.deps.json
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.runtimeconfig.json
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.runtimeconfig.dev.json
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.pdb
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\DaiLy_EV.xml
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.Views.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.Views.pdb
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Antlr3.Runtime.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\csc.exe
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\csi.exe
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\EasyInvoice.Client.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\EasyInvoice.Json.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\EV.Common.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.ApplicationBlocks.Data.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.CodeAnalysis.Scripting.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\System.IO.Pipes.AccessControl.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.Helpers.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.Mvc.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.Optimization.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.Razor.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.WebPages.Deployment.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.WebPages.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.WebPages.Razor.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\TangDuLieu.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\vbc.exe
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\VBCSCompiler.exe
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\EV.Common.pdb
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\vbc.exe.config
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\VBCSCompiler.exe.config
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.csproj.AssemblyReference.cache
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.GeneratedMSBuildEditorConfig.editorconfig
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.AssemblyInfoInputs.cache
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.AssemblyInfo.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.csproj.CoreCompileInputs.cache
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorAssemblyInfo.cache
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorAssemblyInfo.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.TagHelpers.input.cache
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.TagHelpers.output.cache
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorCoreGenerate.cache
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\BaoCaoVe\BaoCaoVeSot.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\BaoCaoVe\IndexBaoCaoVe.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\BPDoan\Index_DOAN.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Content\ViewContent.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\AllCongVan.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\BambooAirway.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\CapNhatMaKH.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\CongVan.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\CongVanEVC.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\DetailQuyDinhHang.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\KhuyenMai.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\OtherAir.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\ThongTinDaiLy.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\ThongTinVe.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\TraCuuChuyenKhoan.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\TraCuuSignIn.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\TraCuuSoVe.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\TraCuuVeHoan.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\Vietjet.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\VietnamAirlines.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\VietravelAirlines.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CongViec.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\ContentNews.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateContentNews.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateDichVu.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateDichVuChild.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateMenuChild.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateMenuParent.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateNhomDL.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateSanPham.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateSanPhamChild.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateThongBao.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\DichVu.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\DichVuChild.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\DSCongViec.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditContentNews.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditDichVu.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditDichVuChild.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditMenuChild.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditMenuParent.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditNhomDL.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditSanPham.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditSanPhamChild.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditThongBao.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\MenuNews.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\NhomKH.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\SanPham.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\SanPhamChild.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\ThongBao.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\TraCuuCongVan.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\TraCuuDaiLy.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\DDBL\CreateDDBL.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\DDBL\EditDDBL.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\DDBL\QuanlyDDBL.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\DDBL\ViewDetailDDBL.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Hang\SoDuHang.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Home\StickNote.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\BaoCaoSMS.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\ChiTietCongNoInPdf.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\CongNo.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\CongNoDaiLy.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\DanhSach.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\ImportDoanhSo.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\Index_KT.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\KhoaCodeDaiLy.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\Phieubaolanh.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\TraCuuDoanhSo.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\UpdateNgayChungTu.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KhachHang\ChiTietKhachHang.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KhachHang\EditKhachHang.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KhachHang\KhachHangVip.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KhachHang\NhomDL.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\Chart.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\DaiLy.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\DanhSachGuiMailKinhDoanh.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\DetailNews.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\DoanhSoDaiLy.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\GuiMailDaiLy_KD.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\Index_KD.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\News.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\NoiDungMailKinhDoanh.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\ThongTinCodeSignIn.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\ThongTinDoanhSo.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\Tieude.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\TraCuuHopDong.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\Chitietbooking.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\Chitietyeucaubooking.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\CreateFlight.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\DanhSachBooking.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\DanhSachYeuCauBooking.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\DoanhSoHang.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\Flight.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\PopupDoanhSoHang.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\UpdateFlight.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Login\Index1.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Member\MemberList.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\ChinhSachDB.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\ChinhSachQN.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\ChinhSachQT.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\CSKH.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\Index.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\NghiepVu.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\ThongBao.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\TinhNangMoi.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Noibo\DetailNews.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Noibo\kyniem.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Noibo\LichLamViec.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Noibo\News.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\BaoCaoVeSot.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\ChiTietNoiDungXuatDoi.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\ChiTietVeHoan.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\DanhSachGuiMailDaiLy.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\DanhSachGuiMailHang.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\DanhSachTongGuiMailDaiLy.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\DetailNews.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\GuiMailDaiLy.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\GuiMailHang.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\HoanVe.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\Index_BK.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\News.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\NoiDungMailHang.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\VeSot.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Setting\CapNhatCauHinh.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Setting\CongViec.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Setting\profile.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\Components\Pager\Bootstrap3.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\MasterLayout.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\MasterLayoutChiTietCongNo.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\MasterLayoutHoaDon.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\MasterLayout_ThongBao.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_ContentFixed.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Header.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Info.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Scripts.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_SideFooter.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_SideMenu.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_SideProfile.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\ThongBao\ChiTietThongBao.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\ThongBao\ThongBao.cshtml.g.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorTargetAssemblyInfo.cache
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorTargetAssemblyInfo.cs
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.Views.pdb
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.csproj.CopyComplete
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.dll
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.pdb
+E:\Công Việc\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.genruntimeconfig.cache
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\Chitietmember.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\DanhSachThanhVien.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\Popup.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\Booking.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\DetailBooking.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Popup\UploadPopup.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\nlog.config
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\appsettings.Development.json
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\icudt49.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\icuin49.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\icuuc49.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qdds.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qgif.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qicns.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qico.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qjp2.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qjpeg.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qmng.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qsvg.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qtga.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qtiff.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qwbmp.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\imageformats\qwebp.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\libEGL.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\libGLESv2.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\platforms\qminimal.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\platforms\qoffscreen.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\platforms\qwindows.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Core.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Gui.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Multimedia.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5MultimediaWidgets.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Network.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5OpenGL.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Positioning.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5PrintSupport.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Qml.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Quick.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Sensors.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Sql.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Svg.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5WebChannel.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5WebKit.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5WebKitWidgets.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Qt5Widgets.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\Syncfusion.WebKitWrapper
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesWindows\zlib1.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqdds.so
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqgif.so
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqicns.so
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqico.so
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqjp2.so
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqjpeg.so
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqmng.so
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqsvg.so
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqtga.so
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqtiff.so
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqwbmp.so
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\imageformats\libqwebp.so
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libGL.so.1
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libicudata.so.55
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libicui18n.so.55
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libicuuc.so.55
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libjpeg.so.8
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libpng12.so.0
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Core.so.5
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5DBus.so.5
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Gui.so.5
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Multimedia.so.5
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5MultimediaWidgets.so.5
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Network.so.5
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5OpenGL.so.5
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Positioning.so.5
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5PrintSupport.so.5
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Qml.so.5
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Quick.so.5
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Sensors.so.5
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Sql.so.5
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Svg.so.5
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5WebChannel.so.5
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5WebKit.so.5
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5WebKitWidgets.so.5
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5Widgets.so.5
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libQt5XcbQpa.so.5
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libsqlite3.so.0
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\libstdc++.so.6
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\platforms\libqminimal.so
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\platforms\libqoffscreen.so
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\platforms\libqxcb.so
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesLinux\Syncfusion.WebKitWrapper
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqdds.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqgif.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqicns.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqico.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqjp2.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqjpeg.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqmng.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqsvg.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqtga.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqtiff.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqwbmp.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\imageformats\libqwebp.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libcrypto.1.0.0.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Core.5.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5DBus.5.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Gui.5.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Multimedia.5.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5MultimediaWidgets.5.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Network.5.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5OpenGL.5.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Positioning.5.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5PrintSupport.5.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Qml.5.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Quick.5.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Sensors.5.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Sql.5.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Svg.5.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5WebChannel.5.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5WebKit.5.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5WebKitWidgets.5.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libQt5Widgets.5.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\libssl.1.0.0.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\platforms\libqcocoa.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\platforms\libqminimal.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\platforms\libqoffscreen.dylib
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\QtBinariesMac\Syncfusion.WebKitWrapper
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\appsettings.json
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Connected Services\SMSService\ConnectedService.json
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.deps.json
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.runtimeconfig.json
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.runtimeconfig.dev.json
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.pdb
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\DaiLy_EV.xml
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.Views.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Manager_EV.Views.pdb
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Antlr3.Runtime.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\csc.exe
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\csi.exe
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\EasyInvoice.Client.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\EasyInvoice.Json.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\EV.Common.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.ApplicationBlocks.Data.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.CodeAnalysis.Scripting.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\System.IO.Pipes.AccessControl.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.Helpers.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.Mvc.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.Optimization.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.Razor.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.WebPages.Deployment.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.WebPages.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\System.Web.WebPages.Razor.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\TangDuLieu.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\vbc.exe
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\VBCSCompiler.exe
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\EV.Common.pdb
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\vbc.exe.config
+D:\azure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\VBCSCompiler.exe.config
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.csproj.AssemblyReference.cache
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.GeneratedMSBuildEditorConfig.editorconfig
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.AssemblyInfoInputs.cache
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.AssemblyInfo.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.csproj.CoreCompileInputs.cache
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorAssemblyInfo.cache
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorAssemblyInfo.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.TagHelpers.input.cache
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.TagHelpers.output.cache
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorCoreGenerate.cache
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\BaoCaoVe\BaoCaoVeSot.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\BaoCaoVe\IndexBaoCaoVe.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\BPDoan\Index_DOAN.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Content\ViewContent.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\AllCongVan.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\BambooAirway.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\CapNhatMaKH.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\Chitietmember.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\CongVan.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\CongVanEVC.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\DanhSachThanhVien.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\DetailQuyDinhHang.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\KhuyenMai.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\OtherAir.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\ThongTinDaiLy.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\ThongTinVe.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\TraCuuChuyenKhoan.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\TraCuuSignIn.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\TraCuuSoVe.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\TraCuuVeHoan.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\Vietjet.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\VietnamAirlines.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Daily\VietravelAirlines.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CongViec.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\ContentNews.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateContentNews.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateDichVu.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateDichVuChild.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateMenuChild.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateMenuParent.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateNhomDL.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateSanPham.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateSanPhamChild.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateThongBao.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\DichVu.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\DichVuChild.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\DSCongViec.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditContentNews.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditDichVu.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditDichVuChild.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditMenuChild.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditMenuParent.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditNhomDL.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditSanPham.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditSanPhamChild.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditThongBao.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\MenuNews.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\NhomKH.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\SanPham.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\SanPhamChild.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\ThongBao.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\TraCuuCongVan.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\TraCuuDaiLy.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\DDBL\CreateDDBL.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\DDBL\EditDDBL.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\DDBL\QuanlyDDBL.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\DDBL\ViewDetailDDBL.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Hang\SoDuHang.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Home\StickNote.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\BaoCaoSMS.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\ChiTietCongNoInPdf.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\CongNo.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\CongNoDaiLy.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\DanhSach.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\DanhSachVeSot.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\ImportDoanhSo.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\Index_KT.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\KhoaCodeDaiLy.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\Phieubaolanh.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\TraCuuDoanhSo.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\UpdateNgayChungTu.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\UpdateVeSot.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KhachHang\ChiTietKhachHang.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KhachHang\EditKhachHang.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KhachHang\KhachHangVip.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KhachHang\NhomDL.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\Chart.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\DaiLy.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\DanhSachGuiMailKinhDoanh.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\DetailNews.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\DoanhSoDaiLy.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\GuiMailDaiLy_KD.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\Index_KD.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\News.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\NoiDungMailKinhDoanh.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\ThongTinCodeSignIn.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\ThongTinDoanhSo.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\Tieude.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KinhDoanh\TraCuuHopDong.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\Chitietbooking.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\Chitietyeucaubooking.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\CreateFlight.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\DangKyThanhVien.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\DanhSachBooking.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\DanhSachYeuCauBooking.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\DoanhSoHang.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\Flight.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\Log_SendSMSBCV.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\PhanQuyen.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\PhanQuyenMember.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\PopupDoanhSoHang.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\ThemChucNang.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\ThemChucNangMember.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\ThemChucNangNVMoi.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\UpdateFlight.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Login\Index1.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Member\MemberList.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\ChinhSachDB.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\ChinhSachQN.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\ChinhSachQT.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\CSKH.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\Index.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\KhenThuong_KyLuat.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\NghiepVu.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\Popup.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\ThongBao.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\TinhNangMoi.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Noibo\DetailNews.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Noibo\kyniem.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Noibo\LichLamViec.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Noibo\News.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\BaoCaoVeSot.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\Booking.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\ChiTietNoiDungXuatDoi.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\ChiTietVeHoan.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\DanhSachGuiMailDaiLy.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\DanhSachGuiMailHang.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\DanhSachTongGuiMailDaiLy.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\DetailBooking.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\DetailNews.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\GuiMailDaiLy.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\GuiMailHang.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\HoanVe.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\Index_BK.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\News.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\NoiDungMailHang.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\PhongVe\VeSot.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Popup\UploadPopup.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Setting\CapNhatCauHinh.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Setting\CongViec.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Setting\profile.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\Components\Pager\Bootstrap3.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\MasterLayout.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\MasterLayoutChiTietCongNo.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\MasterLayoutHoaDon.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\MasterLayout_ThongBao.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_ContentFixed.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Header.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Info.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Scripts.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_SideFooter.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_SideMenu.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Shared\_SideProfile.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\ThongBao\ChiTietThongBao.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\ThongBao\ThongBao.cshtml.g.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorTargetAssemblyInfo.cache
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.RazorTargetAssemblyInfo.cs
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.Views.pdb
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.csproj.CopyComplete
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.dll
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.pdb
+D:\azure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Manager_EV.genruntimeconfig.cache
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\bin\Release\netcoreapp2.1\Connected Services\SMSService\ConnectedService.json
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\BaoCaoVe\BaoCaoVeSotVoQuy.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\BaoCaoVe\DSVeSot.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Corprate\Index.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\Bus.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateAirport.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateBus.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateMap.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditAirport.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditBus.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditMap.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\Map.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Home\Khoaxuathoadondientu.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\DanhSachVeSot.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Ketoan\UpdateVeSot.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\DangKyThanhVien.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\Log_SendSMSBCV.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\PhanQuyen.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\PhanQuyenMember.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\ThemChucNang.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\ThemChucNangMember.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\KyThuat\ThemChucNangNVMoi.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\iframe.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Menu\KhenThuong_KyLuat.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Setting\EditProfile.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\ImportChuongTrinhKhuyenMai.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\ListDaiLy.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateChuongTrinhXoSo.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\DescriptionXoSo.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\DetailXoSo.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\ImportDataXoSo.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\ListXoSo.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateBookerClub.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\DescriptionBookerClub.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\DetailBookerClub.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\ImportDataBookerClub.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\ListBookerClub.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\ChuongTrinhKhuyenMai.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\CreateCTKM.cshtml.g.cs
+D:\EnViet\SourceAzure\sys.airline24h.com\DaiLy_EV\obj\Release\netcoreapp2.1\Razor\Views\Data\EditCTKM.cshtml.g.cs
